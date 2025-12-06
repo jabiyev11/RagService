@@ -384,7 +384,6 @@ class SimpleRAG:
         return selected_all
 
 
-    # LLM call
     def generate_plan(self, profile: dict, context: List[dict]) -> str:
         """Generate meal plan using LLM; expects profile {goal, calories, diet_type, days, avoid_names?}."""
         client = OpenAI(
@@ -404,48 +403,42 @@ class SimpleRAG:
         context_str = "\n".join(lines)
 
         days = int(profile.get("days", 3))
+
         avoid = profile.get("avoid_names", [])
         avoid_str = ", ".join([a for a in avoid if isinstance(a, str)])[:1000]
         avoid_clause = f"\nAvoid repeating these meal names: [{avoid_str}]\n" if avoid_str else ""
 
         prompt = f"""You are an expert nutritionist and meal planner. Your role is to create personalized meal plans and to return ONLY valid JSON.
-                NO markdown, NO prose, NO backticks.
+    NO markdown, NO prose, NO backticks.
 
-                Create a meal plan for EXACTLY {days} day(s) for:
-                - Goal: {profile['goal']}
-                - Calories: {profile['calories']} kcal/day
-                - Diet: {profile['diet_type']}
+    Create a meal plan for EXACTLY {days} day(s) for:
+    - Goal: {profile['goal']}
+    - Calories: {profile['calories']} kcal/day
+    - Diet: {profile['diet_type']}
 
-                Choose from these candidate meals (you may repeat across days if needed, but prefer variety):
-                {context_str}
-                {avoid_clause}
-                STRICT JSON OUTPUT:
-                {{
-                "notice": "A few sentences for user to read before the plan, to have the general picture",
-                "days": [
-                    {{
-                    "day": 1,
-                    "meals": [
-                        {{"type":"breakfast","name":"…","calories":400}},
-                        {{"type":"lunch","name":"…","calories":500}},
-                        {{"type":"snack","name":"…","calories":250}},
-                        {{"type":"dinner","name":"…","calories":600}}
-                    ]
-                    }}
-                ]
-                }}
+    Choose from these candidate meals (you may repeat across days if needed, but prefer variety):
+    {context_str}
+    {avoid_clause}
+    STRICT JSON OUTPUT:
+    {{
+    "title": "Meaningful title of 3 words",
+    "content": "Write the full {days}-day meal plan here as plain text. Clearly separate each day using labels like Day 1, Day 2, etc. For each day, mention breakfast, lunch, snack(s), and dinner chosen from the candidate meals above, with brief descriptions. Do not use markdown or bullet symbols, just plain sentences and line breaks."
+    }}
 
-                Rules:
-                - Return valid JSON ONLY.
-                - Include exactly {days} items in "days", numbered from 1..{days}.
-                - Make sure that the sum of calories and macros from the meals satisfies the needs.
-                - Keep natural and sincere language with the sentences, be supportive and do not go much in detail, just a few main things about the plan maybe.
-                """
+    Rules:
+    - Return valid JSON ONLY.
+    - Do NOT include any keys other than title and content.
+    - The content field must contain the entire multi-day plan as a single text block.
+    - Make sure each day roughly matches the target calories and macros.
+    - Keep the language natural, supportive and concise.
+    - In JSON, you MUST escape all line breaks as \\n and tabs as \\t.
+    - Never put literal line-break characters inside the content string.
+    """
 
         response = client.chat.completions.create(
             model=os.getenv("LLM_MODEL", "llama-3.3-70b-versatile"),
             messages=[{"role": "user", "content": prompt}],
             temperature=0.5,
-            max_tokens=2000
+            max_tokens=2000,
         )
         return response.choices[0].message.content

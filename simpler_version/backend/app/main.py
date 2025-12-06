@@ -23,13 +23,67 @@ def _default_notice(goal: str, calories: int, diet: str) -> str:
 
 
 def _parse_json_loose(plan_json: str) -> dict:
+    """
+    Try to parse the model output as JSON, being forgiving about
+    raw newlines / tabs / other control chars inside strings.
+    """
+
+    def _sanitize(s: str) -> str:
+        # Walk through the text; whenever we're inside a quoted string,
+        # turn raw newlines/tabs/control-chars into escaped forms.
+        out = []
+        in_str = False
+        escaped = False
+
+        for ch in s:
+            if not in_str:
+                out.append(ch)
+                if ch == '"':
+                    in_str = True
+                continue
+
+            # We are inside a string
+            if escaped:
+                # keep whatever comes after a backslash; json.loads
+                # will validate whether it's a legal escape
+                out.append(ch)
+                escaped = False
+                continue
+
+            if ch == '\\':
+                out.append(ch)
+                escaped = True
+            elif ch == '"':
+                out.append(ch)
+                in_str = False
+            elif ch in ("\n", "\r"):
+                # turn literal line breaks into JSON-safe "\n"
+                out.append("\\n")
+            elif ch == "\t":
+                out.append("\\t")
+            elif ord(ch) < 0x20:
+                # other control characters -> space
+                out.append(" ")
+            else:
+                out.append(ch)
+
+        return "".join(out)
+
+    # 1) First try raw
     try:
         return json.loads(plan_json)
     except json.JSONDecodeError:
-        m = re.search(r"\{.*\}", plan_json, re.S)
-        if not m:
-            raise
-        return json.loads(m.group(0))
+        # 2) Sanitize and try again
+        cleaned = _sanitize(plan_json)
+        try:
+            return json.loads(cleaned)
+        except json.JSONDecodeError:
+            # 3) As a last resort, extract the first {...} block
+            m = re.search(r"\{.*\}", cleaned, re.S)
+            if not m:
+                raise
+            return json.loads(m.group(0))
+
 
 
 def _index_catalog(meals: list[dict]) -> dict:
@@ -86,109 +140,50 @@ def root():
 
 @app.post("/generate")
 def generate_plan(profile: UserProfile):
-    """Generate a meal plan with weekly batching"""
+    """Generate a meal plan and return only success, title, content."""
     try:
+        # 1) Compute targets (used to guide the LLM, not returned)
         bmr = calculate_bmr(profile.age, profile.gender, profile.height_cm, profile.weight_kg)
         calories = calculate_calories(bmr, profile.activity, profile.goal)
         macros = calculate_macros(calories, profile.goal, profile.weight_kg)
 
-        base_profile = {
+        # 2) Build profile for RAG + LLM
+        profile_dict = {
             "goal": profile.goal,
             "calories": int(calories),
             "diet_type": profile.diet_type,
             "exclude": profile.exclude,
             "macros": macros,
-
+            "days": profile.days,
         }
 
-        # Retrieve context once
-        context_meals = rag.retrieve_meals({**base_profile, "days": 7}, per_type=8)
+        # 3) Retrieve candidate meals
+        context_meals = rag.retrieve_meals(profile_dict, per_type=8)
 
-        # Batch generation (<=7 days per call)
-        target_days = max(1, int(profile.days))
-        days_accum = []
-        used_names = set()
-        overall_notice = None
+        # 4) Call LLM to get JSON {title, content}
+        raw_plan = rag.generate_plan(profile_dict, context_meals)
 
-        while len(days_accum) < target_days:
-            ask = min(7, target_days - len(days_accum))
-            avoid_list = list(used_names)[:60]
-            chunk_profile = {**base_profile, "days": ask, "avoid_names": avoid_list}
+        # 5) Parse JSON loosely and extract fields
+        plan_data = _parse_json_loose(raw_plan)
 
-            plan_json = rag.generate_plan(chunk_profile, context_meals)
-            plan_data = _parse_json_loose(plan_json)
-
-            if (overall_notice is None) and isinstance(plan_data.get("notice"), str) and plan_data["notice"].strip():
-                overall_notice = plan_data["notice"].strip()
-
-            for d in plan_data.get("days", []):
-                for m in d.get("meals", []):
-                    if isinstance(m.get("name"), str) and m["name"]:
-                        used_names.add(m["name"])
-                d = dict(d)
-                d["day"] = len(days_accum) + 1
-                days_accum.append(d)
-                if len(days_accum) >= target_days:
-                    break
-
-            if not plan_data.get("days"):
-                break
-
-        days_accum = days_accum[:target_days]
-        if not overall_notice:
-            overall_notice = _default_notice(profile.goal, calories, profile.diet_type)
-
-        # Use the full catalog (not only retrieved ones) to maximize coverage
-        catalog_idx = _index_catalog(rag.get_all_meals())
-
-        # ensure we have at least calories for any name
-        for d in days_accum:
-            for m in d.get("meals", []):
-                key = (m.get("name") or "").lower()
-                if key not in catalog_idx:
-                    catalog_idx[key] = {
-                        "name": m.get("name",""),
-                        "type": m.get("type",""),
-                        "calories": int(m.get("calories", 0)),
-                        "protein": 0, "carbs": 0, "fats": 0,
-                        "diet": [], "tags": [], "cuisine": "", "allergens": [],
-                    }
-
-        day_totals = []
-        for d in days_accum:
-            totals = {"calories": 0, "protein": 0, "carbs": 0, "fats": 0}
-            for m in d.get("meals", []):
-                md = catalog_idx.get((m["name"] or "").lower(), {})
-                totals["calories"] += int(m.get("calories", md.get("calories", 0)))
-                totals["protein"]  += int(md.get("protein", 0))
-                totals["carbs"]    += int(md.get("carbs", 0))
-                totals["fats"]     += int(md.get("fats", 0))
-            day_totals.append(totals)
-
-        avg_cals = round(sum(t["calories"] for t in day_totals) / max(1, len(day_totals)))
-        avg_pro  = round(sum(t["protein"]  for t in day_totals) / max(1, len(day_totals)))
-
-        plan_out = {
-            "notice": overall_notice,
-            "days": days_accum,
-            "catalog": catalog_idx,
-            "day_totals": day_totals,
-            "summary": {"avg_calories": avg_cals, "avg_protein": avg_pro},
-        }
+        title = plan_data.get("title", "Meal Plan")
+        content = plan_data.get("content", "")
 
         return {
             "success": True,
-            "targets": {
-                "calories": int(calories),
-                "macros": macros,
-                "bmr": round(bmr),
-            },
-            "plan": plan_out,
-            "retrieved_meals": context_meals[:5],
+            "title": title,
+            "content": content,
         }
 
     except Exception as e:
-        return {"success": False, "error": str(e)}
+        # On error, still follow the same shape
+        return {
+            "success": False,
+            "title": "Error",
+            "content": str(e),
+        }
+
+
 
 
 if __name__ == "__main__":
