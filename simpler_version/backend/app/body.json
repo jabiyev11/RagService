@@ -1,0 +1,10 @@
+{
+  "age": 28,
+  "gender": "male",
+  "height_cm": 170,
+  "weight_kg": 70,
+  "activity": "moderate",
+  "goal": "maintenance",
+  "diet_type": "omnivore",
+  "days": 3
+}

@@ -1,0 +1,8179 @@
+[
+  {
+    "id": "meal_breakfast_turkey_ground",
+    "name": "Turkey, ground",
+    "type": "breakfast",
+    "calories": 359,
+    "protein": 46,
+    "carbs": 0,
+    "fats": 20,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "breakfast_protein",
+      "fdc",
+      "high_protein",
+      "low_carb"
+    ],
+    "cuisine": "american",
+    "allergens": [],
+    "source": "meals_high_protein",
+    "protein_density": 0.1281,
+    "protein_share": 0.513
+  },
+  {
+    "id": "meal_breakfast_turkey_back",
+    "name": "Turkey, back",
+    "type": "breakfast",
+    "calories": 345,
+    "protein": 43,
+    "carbs": 0,
+    "fats": 19,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "breakfast_protein",
+      "fdc",
+      "high_protein",
+      "low_carb"
+    ],
+    "cuisine": "american",
+    "allergens": [],
+    "source": "meals_high_protein",
+    "protein_density": 0.1246,
+    "protein_share": 0.499
+  },
+  {
+    "id": "meal_breakfast_turkey_canned",
+    "name": "Turkey, canned",
+    "type": "breakfast",
+    "calories": 314,
+    "protein": 43,
+    "carbs": 2,
+    "fats": 14,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "breakfast_protein",
+      "fdc",
+      "high_protein",
+      "low_carb"
+    ],
+    "cuisine": "american",
+    "allergens": [],
+    "source": "meals_high_protein",
+    "protein_density": 0.1369,
+    "protein_share": 0.548
+  },
+  {
+    "id": "meal_breakfast_greek_yogurt_whey",
+    "name": "Greek Yogurt + Whey + Berries",
+    "type": "breakfast",
+    "calories": 380,
+    "protein": 42,
+    "carbs": 35,
+    "fats": 8,
+    "diet": [
+      "vegetarian"
+    ],
+    "tags": [
+      "breakfast_protein",
+      "cold",
+      "high_protein",
+      "low_fat",
+      "quick"
+    ],
+    "cuisine": "american",
+    "allergens": [
+      "dairy"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.1105,
+    "protein_share": 0.442
+  },
+  {
+    "id": "meal_breakfast_chicken_sausage_eggs",
+    "name": "Chicken Sausage & Eggs",
+    "type": "breakfast",
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fats": 22,
+    "diet": [
+      "omnivore",
+      "gluten_free"
+    ],
+    "tags": [
+      "breakfast_protein",
+      "high_protein",
+      "low_carb",
+      "warm"
+    ],
+    "cuisine": "american",
+    "allergens": [
+      "eggs"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0889,
+    "protein_share": 0.356
+  },
+  {
+    "id": "meal_breakfast_tempeh",
+    "name": "ORIGINAL TEMPEH, ORIGINAL",
+    "type": "breakfast",
+    "calories": 381,
+    "protein": 40,
+    "carbs": 22,
+    "fats": 16,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "breakfast_protein",
+      "fdc",
+      "high_protein",
+      "low_carb"
+    ],
+    "cuisine": "american",
+    "allergens": [],
+    "source": "meals_high_protein",
+    "protein_density": 0.105,
+    "protein_share": 0.42
+  },
+  {
+    "id": "meal_breakfast_salmon_smoked",
+    "name": "SMOKED SALMON",
+    "type": "breakfast",
+    "calories": 325,
+    "protein": 39,
+    "carbs": 6,
+    "fats": 15,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "breakfast_protein",
+      "fdc",
+      "high_protein",
+      "low_carb"
+    ],
+    "cuisine": "american",
+    "allergens": [],
+    "source": "meals_high_protein",
+    "protein_density": 0.12,
+    "protein_share": 0.48
+  },
+  {
+    "id": "meal_breakfast_egg_white_omelette",
+    "name": "Egg-White Omelette (veggies & feta)",
+    "type": "breakfast",
+    "calories": 320,
+    "protein": 38,
+    "carbs": 14,
+    "fats": 10,
+    "diet": [
+      "vegetarian",
+      "gluten_free"
+    ],
+    "tags": [
+      "breakfast_protein",
+      "high_protein",
+      "low_carb",
+      "warm"
+    ],
+    "cuisine": "mediterranean",
+    "allergens": [
+      "eggs",
+      "dairy"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.1187,
+    "protein_share": 0.475
+  },
+  {
+    "id": "meal_breakfast_protein_pancakes",
+    "name": "Protein Pancakes (Greek yogurt topping)",
+    "type": "breakfast",
+    "calories": 520,
+    "protein": 38,
+    "carbs": 58,
+    "fats": 12,
+    "diet": [
+      "vegetarian"
+    ],
+    "tags": [
+      "breakfast_protein",
+      "high_protein",
+      "low_fat",
+      "warm"
+    ],
+    "cuisine": "american",
+    "allergens": [
+      "gluten",
+      "dairy",
+      "eggs"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0731,
+    "protein_share": 0.292
+  },
+  {
+    "id": "meal_breakfast_turkey_neck",
+    "name": "Turkey, neck",
+    "type": "breakfast",
+    "calories": 274,
+    "protein": 38,
+    "carbs": 0,
+    "fats": 12,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "breakfast_protein",
+      "fdc",
+      "high_protein",
+      "low_carb"
+    ],
+    "cuisine": "american",
+    "allergens": [],
+    "source": "meals_high_protein",
+    "protein_density": 0.1387,
+    "protein_share": 0.555
+  },
+  {
+    "id": "meal_breakfast_turkey_nuggets",
+    "name": "Turkey, nuggets",
+    "type": "breakfast",
+    "calories": 401,
+    "protein": 38,
+    "carbs": 29,
+    "fats": 15,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "breakfast_protein",
+      "fdc",
+      "high_protein"
+    ],
+    "cuisine": "american",
+    "allergens": [],
+    "source": "meals_high_protein",
+    "protein_density": 0.0948,
+    "protein_share": 0.379
+  },
+  {
+    "id": "meal_breakfast_turkey_tail",
+    "name": "Turkey, tail",
+    "type": "breakfast",
+    "calories": 500,
+    "protein": 38,
+    "carbs": 0,
+    "fats": 39,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "breakfast_protein",
+      "fdc",
+      "high_protein",
+      "low_carb"
+    ],
+    "cuisine": "american",
+    "allergens": [],
+    "source": "meals_high_protein",
+    "protein_density": 0.076,
+    "protein_share": 0.304
+  },
+  {
+    "id": "meal_breakfast_quark_bowl",
+    "name": "Quark Bowl (fruit & almonds)",
+    "type": "breakfast",
+    "calories": 390,
+    "protein": 36,
+    "carbs": 30,
+    "fats": 12,
+    "diet": [
+      "vegetarian",
+      "gluten_free"
+    ],
+    "tags": [
+      "breakfast_protein",
+      "cold",
+      "high_protein"
+    ],
+    "cuisine": "european",
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0923,
+    "protein_share": 0.369
+  },
+  {
+    "id": "meal_breakfast_cottage_cheese_bowl",
+    "name": "Cottage Cheese Bowl (berries & honey)",
+    "type": "breakfast",
+    "calories": 360,
+    "protein": 35,
+    "carbs": 32,
+    "fats": 10,
+    "diet": [
+      "vegetarian",
+      "gluten_free"
+    ],
+    "tags": [
+      "breakfast_protein",
+      "cold",
+      "high_protein",
+      "low_fat",
+      "quick"
+    ],
+    "cuisine": "american",
+    "allergens": [
+      "dairy"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0972,
+    "protein_share": 0.389
+  },
+  {
+    "id": "meal_breakfast_proats",
+    "name": "Protein Oats (whey + banana)",
+    "type": "breakfast",
+    "calories": 420,
+    "protein": 35,
+    "carbs": 50,
+    "fats": 9,
+    "diet": [
+      "vegetarian"
+    ],
+    "tags": [
+      "breakfast_protein",
+      "high_protein",
+      "low_fat",
+      "warm"
+    ],
+    "cuisine": "american",
+    "allergens": [
+      "dairy"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0833,
+    "protein_share": 0.333
+  },
+  {
+    "id": "meal_breakfast_turkey_with",
+    "name": "Turkey with gravy",
+    "type": "breakfast",
+    "calories": 212,
+    "protein": 35,
+    "carbs": 3,
+    "fats": 6,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "breakfast_protein",
+      "fdc",
+      "high_protein",
+      "low_carb"
+    ],
+    "cuisine": "american",
+    "allergens": [],
+    "source": "meals_high_protein",
+    "protein_density": 0.1651,
+    "protein_share": 0.66
+  },
+  {
+    "id": "meal_breakfast_skyr_granola",
+    "name": "Skyr + Granola + Seeds",
+    "type": "breakfast",
+    "calories": 400,
+    "protein": 34,
+    "carbs": 45,
+    "fats": 10,
+    "diet": [
+      "vegetarian"
+    ],
+    "tags": [
+      "breakfast_protein",
+      "cold",
+      "high_protein",
+      "low_fat",
+      "quick"
+    ],
+    "cuisine": "nordic",
+    "allergens": [
+      "dairy",
+      "gluten",
+      "nuts"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.085,
+    "protein_share": 0.34
+  },
+  {
+    "id": "meal_breakfast_smoked_salmon_bagel",
+    "name": "Smoked Salmon Bagel",
+    "type": "breakfast",
+    "calories": 480,
+    "protein": 32,
+    "carbs": 52,
+    "fats": 16,
+    "diet": [
+      "pescatarian"
+    ],
+    "tags": [
+      "breakfast_protein",
+      "high_protein"
+    ],
+    "cuisine": "european",
+    "allergens": [
+      "gluten",
+      "fish",
+      "dairy"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0667,
+    "protein_share": 0.267
+  },
+  {
+    "id": "meal_breakfast_tofu_fried",
+    "name": "Tofu, fried, prepared with calcium sulfate",
+    "type": "breakfast",
+    "calories": 459,
+    "protein": 32,
+    "carbs": 15,
+    "fats": 34,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "breakfast_protein",
+      "fdc",
+      "high_protein",
+      "low_carb"
+    ],
+    "cuisine": "american",
+    "allergens": [],
+    "source": "meals_high_protein",
+    "protein_density": 0.0697,
+    "protein_share": 0.279
+  },
+  {
+    "id": "meal_breakfast_tofu_scramble",
+    "name": "Tofu Scramble Wrap",
+    "type": "breakfast",
+    "calories": 430,
+    "protein": 30,
+    "carbs": 46,
+    "fats": 14,
+    "diet": [
+      "vegan"
+    ],
+    "tags": [
+      "breakfast_protein",
+      "high_protein",
+      "warm"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "soy",
+      "gluten"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0698,
+    "protein_share": 0.279
+  },
+  {
+    "id": "meal_breakfast_oatmeal",
+    "name": "Oat bran, raw",
+    "type": "breakfast",
+    "calories": 418,
+    "protein": 29,
+    "carbs": 113,
+    "fats": 12,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "breakfast_protein",
+      "fdc",
+      "high_carb",
+      "high_protein"
+    ],
+    "cuisine": "american",
+    "allergens": [],
+    "source": "meals_high_protein",
+    "protein_density": 0.0694,
+    "protein_share": 0.278
+  },
+  {
+    "id": "meal_breakfast_pastrami_turkey",
+    "name": "Pastrami, turkey",
+    "type": "breakfast",
+    "calories": 236,
+    "protein": 28,
+    "carbs": 6,
+    "fats": 11,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "breakfast_protein",
+      "fdc",
+      "high_protein",
+      "low_carb"
+    ],
+    "cuisine": "american",
+    "allergens": [],
+    "source": "meals_high_protein",
+    "protein_density": 0.1186,
+    "protein_share": 0.475
+  },
+  {
+    "id": "meal_breakfast_cereals_ready",
+    "name": "Cereals ready-to-eat, UNCLE SAM CEREAL",
+    "type": "breakfast",
+    "calories": 588,
+    "protein": 27,
+    "carbs": 112,
+    "fats": 20,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "breakfast_protein",
+      "fdc",
+      "high_carb"
+    ],
+    "cuisine": "american",
+    "allergens": [],
+    "source": "meals_high_protein",
+    "protein_density": 0.0459,
+    "protein_share": 0.184
+  },
+  {
+    "id": "meal_breakfast_turkey_bacon",
+    "name": "TURKEY BACON",
+    "type": "breakfast",
+    "calories": 304,
+    "protein": 24,
+    "carbs": 12,
+    "fats": 24,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "fdc",
+      "high_protein",
+      "low_carb"
+    ],
+    "cuisine": "american",
+    "allergens": [],
+    "source": "meals_high_protein",
+    "protein_density": 0.0789,
+    "protein_share": 0.316
+  },
+  {
+    "id": "meal_breakfast_bread_high",
+    "name": "Bread, high protein, toasted",
+    "type": "breakfast",
+    "calories": 457,
+    "protein": 23,
+    "carbs": 82,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "fdc",
+      "high_carb",
+      "low_fat"
+    ],
+    "cuisine": "american",
+    "allergens": [],
+    "source": "meals_high_protein",
+    "protein_density": 0.0503,
+    "protein_share": 0.201
+  },
+  {
+    "id": "meal_breakfast_eggs",
+    "name": "Eggs, scrambled, frozen mixture",
+    "type": "breakfast",
+    "calories": 223,
+    "protein": 22,
+    "carbs": 13,
+    "fats": 10,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "fdc",
+      "high_protein",
+      "low_carb"
+    ],
+    "cuisine": "american",
+    "allergens": [],
+    "source": "meals_high_protein",
+    "protein_density": 0.0987,
+    "protein_share": 0.395
+  },
+  {
+    "id": "meal_breakfast_egg_whites",
+    "name": "Egg white sandwich, with meat",
+    "type": "breakfast",
+    "calories": 332,
+    "protein": 22,
+    "carbs": 29,
+    "fats": 14,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "fdc",
+      "high_protein"
+    ],
+    "cuisine": "american",
+    "allergens": [],
+    "source": "meals_high_protein",
+    "protein_density": 0.0663,
+    "protein_share": 0.265
+  },
+  {
+    "id": "meal_breakfast_bread_protein",
+    "name": "Bread, protein (includes gluten)",
+    "type": "breakfast",
+    "calories": 416,
+    "protein": 21,
+    "carbs": 74,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "fdc",
+      "high_carb",
+      "low_fat"
+    ],
+    "cuisine": "american",
+    "allergens": [],
+    "source": "meals_high_protein",
+    "protein_density": 0.0505,
+    "protein_share": 0.202
+  },
+  {
+    "id": "meal_breakfast_protein_granola_honey_and_seeds",
+    "name": "Protein Granola Honey and Seeds",
+    "type": "breakfast",
+    "calories": 269,
+    "protein": 17,
+    "carbs": 27,
+    "fats": 10,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_protein",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0632,
+    "protein_share": 0.253
+  },
+  {
+    "id": "meal_breakfast_protein_musli",
+    "name": "Protein musli",
+    "type": "breakfast",
+    "calories": 257,
+    "protein": 17,
+    "carbs": 26,
+    "fats": 8,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_protein",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0661,
+    "protein_share": 0.265
+  },
+  {
+    "id": "meal_breakfast_high_protein_granola_nuts_seeds",
+    "name": "High Protein Granola Nuts & Seeds",
+    "type": "breakfast",
+    "calories": 270,
+    "protein": 16,
+    "carbs": 26,
+    "fats": 10,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0593,
+    "protein_share": 0.237
+  },
+  {
+    "id": "meal_breakfast_high_protein_granola_honey_seed",
+    "name": "High Protein Granola Honey & Seed",
+    "type": "breakfast",
+    "calories": 262,
+    "protein": 15,
+    "carbs": 27,
+    "fats": 10,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0573,
+    "protein_share": 0.229
+  },
+  {
+    "id": "meal_breakfast_high_protein_granola_cranberry_almond",
+    "name": "High Protein Granola Cranberry & Almond",
+    "type": "breakfast",
+    "calories": 260,
+    "protein": 15,
+    "carbs": 26,
+    "fats": 10,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "nuts"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0577,
+    "protein_share": 0.231
+  },
+  {
+    "id": "meal_breakfast_penne",
+    "name": "Penne",
+    "type": "breakfast",
+    "calories": 287,
+    "protein": 14,
+    "carbs": 28,
+    "fats": 13,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0488,
+    "protein_share": 0.195
+  },
+  {
+    "id": "meal_breakfast_high_protein_choco_crunch",
+    "name": "High Protein Choco Crunch",
+    "type": "breakfast",
+    "calories": 251,
+    "protein": 14,
+    "carbs": 23,
+    "fats": 9,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0558,
+    "protein_share": 0.223
+  },
+  {
+    "id": "meal_breakfast_protein_crunch_chocolate_flavour",
+    "name": "Protein Crunch Chocolate Flavour",
+    "type": "breakfast",
+    "calories": 225,
+    "protein": 12,
+    "carbs": 38,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0533,
+    "protein_share": 0.213
+  },
+  {
+    "id": "meal_breakfast_cocoa_hazelnut_gut_loving_granola",
+    "name": "Cocoa & Hazelnut Gut-Loving Granola",
+    "type": "breakfast",
+    "calories": 242,
+    "protein": 10,
+    "carbs": 30,
+    "fats": 9,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "nuts"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0413,
+    "protein_share": 0.165
+  },
+  {
+    "id": "meal_breakfast_fuel_10k_granola_super_berry",
+    "name": "FUEL 10K Granola Super Berry",
+    "type": "breakfast",
+    "calories": 258,
+    "protein": 10,
+    "carbs": 37,
+    "fats": 8,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0388,
+    "protein_share": 0.155
+  },
+  {
+    "id": "meal_breakfast_quaker_original",
+    "name": "quaker original",
+    "type": "breakfast",
+    "calories": 218,
+    "protein": 10,
+    "carbs": 35,
+    "fats": 3,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0459,
+    "protein_share": 0.183
+  },
+  {
+    "id": "meal_breakfast_copos_de_trigo_espelta_integral_0",
+    "name": "Copos de trigo espelta integral 0%",
+    "type": "breakfast",
+    "calories": 218,
+    "protein": 9,
+    "carbs": 40,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0413,
+    "protein_share": 0.165
+  },
+  {
+    "id": "meal_breakfast_fuel10k_protein_boosted_chunky_chocolate",
+    "name": "FUEL10K Protein Boosted Chunky Chocolate Granola imp",
+    "type": "breakfast",
+    "calories": 265,
+    "protein": 9,
+    "carbs": 36,
+    "fats": 8,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.034,
+    "protein_share": 0.136
+  },
+  {
+    "id": "meal_breakfast_bio_organic_oat_flakes",
+    "name": "bio organic oat flakes",
+    "type": "breakfast",
+    "calories": 218,
+    "protein": 9,
+    "carbs": 33,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0413,
+    "protein_share": 0.165
+  },
+  {
+    "id": "meal_breakfast_flocons_d_avoine_4_graines_et_raisins",
+    "name": "Flocons d'avoine 4 graines et raisins",
+    "type": "breakfast",
+    "calories": 236,
+    "protein": 9,
+    "carbs": 31,
+    "fats": 7,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0381,
+    "protein_share": 0.153
+  },
+  {
+    "id": "meal_breakfast_puffed_wheat",
+    "name": "Puffed Wheat",
+    "type": "breakfast",
+    "calories": 226,
+    "protein": 9,
+    "carbs": 42,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "gluten"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0398,
+    "protein_share": 0.159
+  },
+  {
+    "id": "meal_breakfast_scottish_porridge_oats__2",
+    "name": "Scottish porridge oats",
+    "type": "breakfast",
+    "calories": 182,
+    "protein": 9,
+    "carbs": 24,
+    "fats": 5,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0495,
+    "protein_share": 0.198
+  },
+  {
+    "id": "meal_breakfast_low_sugar_grain_free_granola",
+    "name": "Low Sugar Grain-free granola",
+    "type": "breakfast",
+    "calories": 373,
+    "protein": 9,
+    "carbs": 9,
+    "fats": 32,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "low_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0241,
+    "protein_share": 0.097
+  },
+  {
+    "id": "meal_breakfast_pecan_almond_grain_free_granola",
+    "name": "Pecan & Almond Grain-Free Granola",
+    "type": "breakfast",
+    "calories": 380,
+    "protein": 9,
+    "carbs": 12,
+    "fats": 32,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "low_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "nuts"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0237,
+    "protein_share": 0.095
+  },
+  {
+    "id": "meal_breakfast_haferflocken",
+    "name": "Haferflocken",
+    "type": "breakfast",
+    "calories": 223,
+    "protein": 8,
+    "carbs": 35,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0359,
+    "protein_share": 0.143
+  },
+  {
+    "id": "meal_breakfast_copos_de_avena",
+    "name": "Copos de avena",
+    "type": "breakfast",
+    "calories": 225,
+    "protein": 8,
+    "carbs": 35,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0356,
+    "protein_share": 0.142
+  },
+  {
+    "id": "meal_breakfast_low_sugar_nuts_seeds_granola_imp",
+    "name": "Low Sugar Nuts & Seeds Granola imp",
+    "type": "breakfast",
+    "calories": 268,
+    "protein": 8,
+    "carbs": 34,
+    "fats": 10,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0299,
+    "protein_share": 0.119
+  },
+  {
+    "id": "meal_breakfast_wholegrain_wheat_bixies",
+    "name": "Wholegrain Wheat Bixies",
+    "type": "breakfast",
+    "calories": 217,
+    "protein": 8,
+    "carbs": 41,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "gluten"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0369,
+    "protein_share": 0.147
+  },
+  {
+    "id": "meal_breakfast_hafer_flocken_zart",
+    "name": "Hafer Flocken Zart",
+    "type": "breakfast",
+    "calories": 223,
+    "protein": 8,
+    "carbs": 36,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0359,
+    "protein_share": 0.143
+  },
+  {
+    "id": "meal_breakfast_avena_crunchy",
+    "name": "Avena Crunchy",
+    "type": "breakfast",
+    "calories": 234,
+    "protein": 8,
+    "carbs": 40,
+    "fats": 3,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0342,
+    "protein_share": 0.137
+  },
+  {
+    "id": "meal_breakfast_low_sugar_naturally_gut_loving_granola",
+    "name": "Low Sugar, Naturally Gut-Loving Granola",
+    "type": "breakfast",
+    "calories": 268,
+    "protein": 8,
+    "carbs": 30,
+    "fats": 11,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0299,
+    "protein_share": 0.119
+  },
+  {
+    "id": "meal_breakfast_oat_flakes",
+    "name": "Oat flakes",
+    "type": "breakfast",
+    "calories": 223,
+    "protein": 8,
+    "carbs": 35,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0359,
+    "protein_share": 0.143
+  },
+  {
+    "id": "meal_breakfast_avena_crunchy_cacao",
+    "name": "Avena Crunchy Cacao",
+    "type": "breakfast",
+    "calories": 236,
+    "protein": 8,
+    "carbs": 39,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0339,
+    "protein_share": 0.136
+  },
+  {
+    "id": "meal_breakfast_all_bran_fibre_plus",
+    "name": "All-Bran Fibre Plus",
+    "type": "breakfast",
+    "calories": 200,
+    "protein": 8,
+    "carbs": 29,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.04,
+    "protein_share": 0.16
+  },
+  {
+    "id": "meal_breakfast_fiocchi_d_avena_integrale_interi",
+    "name": "FIOCCHI D'AVENA INTEGRALE INTERI",
+    "type": "breakfast",
+    "calories": 223,
+    "protein": 8,
+    "carbs": 35,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0359,
+    "protein_share": 0.143
+  },
+  {
+    "id": "meal_breakfast_fine_oat_flakes",
+    "name": "Fine Oat Flakes",
+    "type": "breakfast",
+    "calories": 223,
+    "protein": 8,
+    "carbs": 37,
+    "fats": 3,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0359,
+    "protein_share": 0.143
+  },
+  {
+    "id": "meal_breakfast_low_sugar_granola_original",
+    "name": "Low Sugar Granola Original",
+    "type": "breakfast",
+    "calories": 313,
+    "protein": 8,
+    "carbs": 36,
+    "fats": 14,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0256,
+    "protein_share": 0.102
+  },
+  {
+    "id": "meal_breakfast_granola__2",
+    "name": "Granola",
+    "type": "breakfast",
+    "calories": 286,
+    "protein": 8,
+    "carbs": 30,
+    "fats": 14,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.028,
+    "protein_share": 0.112
+  },
+  {
+    "id": "meal_breakfast_original_nuts_seeds_imp",
+    "name": "Original Nuts & Seeds imp",
+    "type": "breakfast",
+    "calories": 283,
+    "protein": 8,
+    "carbs": 30,
+    "fats": 14,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0283,
+    "protein_share": 0.113
+  },
+  {
+    "id": "meal_breakfast_granola_amandes_noisettes_graines",
+    "name": "Granola Amandes Noisettes & Graines",
+    "type": "breakfast",
+    "calories": 271,
+    "protein": 8,
+    "carbs": 35,
+    "fats": 9,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0295,
+    "protein_share": 0.118
+  },
+  {
+    "id": "meal_breakfast_honey_granola",
+    "name": "Honey Granola",
+    "type": "breakfast",
+    "calories": 296,
+    "protein": 8,
+    "carbs": 30,
+    "fats": 16,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.027,
+    "protein_share": 0.108
+  },
+  {
+    "id": "meal_breakfast_flocons_d_avoine__3",
+    "name": "Flocons d'avoine",
+    "type": "breakfast",
+    "calories": 223,
+    "protein": 8,
+    "carbs": 35,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0359,
+    "protein_share": 0.143
+  },
+  {
+    "id": "meal_breakfast_weetabix_crunchy_bran",
+    "name": "Weetabix, Crunchy Bran",
+    "type": "breakfast",
+    "calories": 211,
+    "protein": 8,
+    "carbs": 32,
+    "fats": 3,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0379,
+    "protein_share": 0.152
+  },
+  {
+    "id": "meal_breakfast_low_sugar_granola_wholegrain_oats_almond",
+    "name": "Low Sugar Granola, Wholegrain Oats, Almonds & Seeds",
+    "type": "breakfast",
+    "calories": 297,
+    "protein": 8,
+    "carbs": 20,
+    "fats": 19,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "nuts"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0269,
+    "protein_share": 0.108
+  },
+  {
+    "id": "meal_breakfast_carrefour_bio_organic_oat_flakes",
+    "name": "Carrefour Bio Organic Oat Flakes",
+    "type": "breakfast",
+    "calories": 223,
+    "protein": 8,
+    "carbs": 35,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0359,
+    "protein_share": 0.143
+  },
+  {
+    "id": "meal_breakfast_super_nutty_granola",
+    "name": "Super Nutty Granola",
+    "type": "breakfast",
+    "calories": 276,
+    "protein": 8,
+    "carbs": 34,
+    "fats": 11,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.029,
+    "protein_share": 0.116
+  },
+  {
+    "id": "meal_breakfast_bitesize_wheat_shreds",
+    "name": "bitesize wheat shreds",
+    "type": "breakfast",
+    "calories": 220,
+    "protein": 8,
+    "carbs": 41,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "gluten"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0364,
+    "protein_share": 0.145
+  },
+  {
+    "id": "meal_breakfast_grainea_granola_noix",
+    "name": "Grainea granola noix",
+    "type": "breakfast",
+    "calories": 280,
+    "protein": 8,
+    "carbs": 31,
+    "fats": 13,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0286,
+    "protein_share": 0.114
+  },
+  {
+    "id": "meal_breakfast_all_bran_original",
+    "name": "All Bran Original",
+    "type": "breakfast",
+    "calories": 200,
+    "protein": 8,
+    "carbs": 29,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.04,
+    "protein_share": 0.16
+  },
+  {
+    "id": "meal_breakfast_bite_size_wheat_shreds",
+    "name": "Bite size wheat shreds",
+    "type": "breakfast",
+    "calories": 220,
+    "protein": 8,
+    "carbs": 41,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "gluten"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0364,
+    "protein_share": 0.145
+  },
+  {
+    "id": "meal_breakfast_wholegrain_wheat_bisks",
+    "name": "Wholegrain Wheat Bisks",
+    "type": "breakfast",
+    "calories": 215,
+    "protein": 8,
+    "carbs": 41,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "gluten"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0372,
+    "protein_share": 0.149
+  },
+  {
+    "id": "meal_breakfast_quaker_golden_syrup",
+    "name": "quaker golden syrup",
+    "type": "breakfast",
+    "calories": 225,
+    "protein": 8,
+    "carbs": 39,
+    "fats": 3,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0356,
+    "protein_share": 0.142
+  },
+  {
+    "id": "meal_breakfast_high_fibre_bran",
+    "name": "High Fibre Bran",
+    "type": "breakfast",
+    "calories": 210,
+    "protein": 8,
+    "carbs": 32,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0381,
+    "protein_share": 0.152
+  },
+  {
+    "id": "meal_breakfast_cheerios",
+    "name": "Cheerios",
+    "type": "breakfast",
+    "calories": 215,
+    "protein": 8,
+    "carbs": 45,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0372,
+    "protein_share": 0.149
+  },
+  {
+    "id": "meal_breakfast_flocons_d_avoine__4",
+    "name": "Flocons d avoine",
+    "type": "breakfast",
+    "calories": 227,
+    "protein": 8,
+    "carbs": 36,
+    "fats": 5,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0352,
+    "protein_share": 0.141
+  },
+  {
+    "id": "meal_breakfast_cereales_granola_noix_graines_350g",
+    "name": "Cereales Granola Noix & Graines 350G",
+    "type": "breakfast",
+    "calories": 272,
+    "protein": 8,
+    "carbs": 34,
+    "fats": 11,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0294,
+    "protein_share": 0.118
+  },
+  {
+    "id": "meal_breakfast_flocons_d_avoine_paquet_500g",
+    "name": "Flocons d'avoine, paquet 500g",
+    "type": "breakfast",
+    "calories": 218,
+    "protein": 8,
+    "carbs": 34,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0367,
+    "protein_share": 0.147
+  },
+  {
+    "id": "meal_breakfast_high_fibre_bran_tesco",
+    "name": "High Fibre Bran. Tesco.",
+    "type": "breakfast",
+    "calories": 210,
+    "protein": 8,
+    "carbs": 32,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0381,
+    "protein_share": 0.152
+  },
+  {
+    "id": "meal_breakfast_flocons_d_avoine_grainea",
+    "name": "Flocons d'avoine - Grainea",
+    "type": "breakfast",
+    "calories": 223,
+    "protein": 8,
+    "carbs": 35,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0359,
+    "protein_share": 0.143
+  },
+  {
+    "id": "meal_breakfast_zarte_haferflocken",
+    "name": "Zarte Haferflocken",
+    "type": "breakfast",
+    "calories": 223,
+    "protein": 8,
+    "carbs": 36,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0359,
+    "protein_share": 0.143
+  },
+  {
+    "id": "meal_breakfast_oats_plenty_super_seedy_nutty_porridge",
+    "name": "Oats & Plenty Super Seedy & Nutty Porridge",
+    "type": "breakfast",
+    "calories": 256,
+    "protein": 8,
+    "carbs": 32,
+    "fats": 9,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0312,
+    "protein_share": 0.125
+  },
+  {
+    "id": "meal_breakfast_chocolate_and_raspberry_granola",
+    "name": "Chocolate and raspberry granola",
+    "type": "breakfast",
+    "calories": 246,
+    "protein": 8,
+    "carbs": 39,
+    "fats": 5,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0325,
+    "protein_share": 0.13
+  },
+  {
+    "id": "meal_breakfast_heritage_flakes_cereal",
+    "name": "Heritage Flakes Cereal",
+    "type": "breakfast",
+    "calories": 240,
+    "protein": 8,
+    "carbs": 46,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0333,
+    "protein_share": 0.133
+  },
+  {
+    "id": "meal_breakfast_nut_granola_blueberry_cinnamon_sweet_cru",
+    "name": "nut granola blueberry cinnamon sweet & crunchy",
+    "type": "breakfast",
+    "calories": 320,
+    "protein": 8,
+    "carbs": 18,
+    "fats": 30,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "low_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.025,
+    "protein_share": 0.1
+  },
+  {
+    "id": "meal_breakfast_nuts_granola_seeds",
+    "name": "Nuts, Granola & Seeds",
+    "type": "breakfast",
+    "calories": 235,
+    "protein": 8,
+    "carbs": 39,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.034,
+    "protein_share": 0.136
+  },
+  {
+    "id": "meal_breakfast_cheerios_grandkids_imp",
+    "name": "Cheerios Grandkids imp",
+    "type": "breakfast",
+    "calories": 215,
+    "protein": 8,
+    "carbs": 45,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0372,
+    "protein_share": 0.149
+  },
+  {
+    "id": "meal_breakfast_weetabix",
+    "name": "Weetabix",
+    "type": "breakfast",
+    "calories": 215,
+    "protein": 7,
+    "carbs": 41,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0326,
+    "protein_share": 0.13
+  },
+  {
+    "id": "meal_breakfast_family_pack",
+    "name": "Family Pack",
+    "type": "breakfast",
+    "calories": 217,
+    "protein": 7,
+    "carbs": 44,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0323,
+    "protein_share": 0.129
+  },
+  {
+    "id": "meal_breakfast_wheat_bisks",
+    "name": "Wheat Bisks",
+    "type": "breakfast",
+    "calories": 212,
+    "protein": 7,
+    "carbs": 41,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "gluten"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.033,
+    "protein_share": 0.132
+  },
+  {
+    "id": "meal_breakfast_quaker_rolled_oats",
+    "name": "Quaker Rolled Oats",
+    "type": "breakfast",
+    "calories": 221,
+    "protein": 7,
+    "carbs": 38,
+    "fats": 5,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0317,
+    "protein_share": 0.127
+  },
+  {
+    "id": "meal_breakfast_flocons_d_avoine_complete",
+    "name": "Flocons d'avoine complete",
+    "type": "breakfast",
+    "calories": 225,
+    "protein": 7,
+    "carbs": 36,
+    "fats": 5,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0311,
+    "protein_share": 0.124
+  },
+  {
+    "id": "meal_breakfast_country_crisp",
+    "name": "Country crisp",
+    "type": "breakfast",
+    "calories": 279,
+    "protein": 7,
+    "carbs": 35,
+    "fats": 12,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0251,
+    "protein_share": 0.1
+  },
+  {
+    "id": "meal_breakfast_bitesize_shredded_wheat",
+    "name": "Bitesize shredded wheat",
+    "type": "breakfast",
+    "calories": 220,
+    "protein": 7,
+    "carbs": 41,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "gluten"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0318,
+    "protein_share": 0.127
+  },
+  {
+    "id": "meal_breakfast_wheat_biscuits",
+    "name": "Wheat Biscuits",
+    "type": "breakfast",
+    "calories": 215,
+    "protein": 7,
+    "carbs": 41,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "gluten"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0326,
+    "protein_share": 0.13
+  },
+  {
+    "id": "meal_breakfast_super_seedy_nutty_granola",
+    "name": "Super Seedy & Nutty Granola",
+    "type": "breakfast",
+    "calories": 241,
+    "protein": 7,
+    "carbs": 30,
+    "fats": 9,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.029,
+    "protein_share": 0.116
+  },
+  {
+    "id": "meal_breakfast_malt_wheats",
+    "name": "Malt Wheats",
+    "type": "breakfast",
+    "calories": 217,
+    "protein": 7,
+    "carbs": 49,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "gluten"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0323,
+    "protein_share": 0.129
+  },
+  {
+    "id": "meal_breakfast_organic_porridge_oats",
+    "name": "Organic Porridge Oats",
+    "type": "breakfast",
+    "calories": 216,
+    "protein": 7,
+    "carbs": 36,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0324,
+    "protein_share": 0.13
+  },
+  {
+    "id": "meal_breakfast_original_shredded_wheat",
+    "name": "original shredded wheat",
+    "type": "breakfast",
+    "calories": 216,
+    "protein": 7,
+    "carbs": 40,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "gluten"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0324,
+    "protein_share": 0.13
+  },
+  {
+    "id": "meal_breakfast_irish_organic_jumbo_oats",
+    "name": "Irish Organic Jumbo Oats",
+    "type": "breakfast",
+    "calories": 222,
+    "protein": 7,
+    "carbs": 39,
+    "fats": 3,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0315,
+    "protein_share": 0.126
+  },
+  {
+    "id": "meal_breakfast_oat_so_simple",
+    "name": "Oat so Simple",
+    "type": "breakfast",
+    "calories": 222,
+    "protein": 7,
+    "carbs": 36,
+    "fats": 5,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0315,
+    "protein_share": 0.126
+  },
+  {
+    "id": "meal_breakfast_bran_flakes",
+    "name": "Bran Flakes",
+    "type": "breakfast",
+    "calories": 215,
+    "protein": 7,
+    "carbs": 39,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0326,
+    "protein_share": 0.13
+  },
+  {
+    "id": "meal_breakfast_malted_wheaties",
+    "name": "Malted Wheaties",
+    "type": "breakfast",
+    "calories": 222,
+    "protein": 7,
+    "carbs": 42,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "gluten"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0315,
+    "protein_share": 0.126
+  },
+  {
+    "id": "meal_breakfast_scott_s_porage_oats_original_1000g",
+    "name": "Scott's Porage Oats Original 1000g",
+    "type": "breakfast",
+    "calories": 224,
+    "protein": 7,
+    "carbs": 36,
+    "fats": 5,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0312,
+    "protein_share": 0.125
+  },
+  {
+    "id": "meal_breakfast_shreddies",
+    "name": "Shreddies",
+    "type": "breakfast",
+    "calories": 218,
+    "protein": 7,
+    "carbs": 42,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0321,
+    "protein_share": 0.128
+  },
+  {
+    "id": "meal_breakfast_nutty_granola",
+    "name": "Nutty Granola",
+    "type": "breakfast",
+    "calories": 279,
+    "protein": 7,
+    "carbs": 37,
+    "fats": 11,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0251,
+    "protein_share": 0.1
+  },
+  {
+    "id": "meal_breakfast_alpenmusli_the_original_swiss_style",
+    "name": "Alpenmusli The Original Swiss Style",
+    "type": "breakfast",
+    "calories": 224,
+    "protein": 7,
+    "carbs": 40,
+    "fats": 3,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0312,
+    "protein_share": 0.125
+  },
+  {
+    "id": "meal_breakfast_crunchy_oat_granola_raisin_almond",
+    "name": "Crunchy Oat Granola Raisin & Almond",
+    "type": "breakfast",
+    "calories": 250,
+    "protein": 7,
+    "carbs": 38,
+    "fats": 7,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "nuts"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.028,
+    "protein_share": 0.112
+  },
+  {
+    "id": "meal_breakfast_grape_nuts",
+    "name": "Grape-Nuts",
+    "type": "breakfast",
+    "calories": 217,
+    "protein": 7,
+    "carbs": 41,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0323,
+    "protein_share": 0.129
+  },
+  {
+    "id": "meal_breakfast_wheat_biscuits_malty_crispy",
+    "name": "Wheat Biscuits malty & crispy",
+    "type": "breakfast",
+    "calories": 215,
+    "protein": 7,
+    "carbs": 41,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "gluten"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0326,
+    "protein_share": 0.13
+  },
+  {
+    "id": "meal_breakfast_shredded_wheat",
+    "name": "shredded wheat",
+    "type": "breakfast",
+    "calories": 220,
+    "protein": 7,
+    "carbs": 41,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "gluten"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0318,
+    "protein_share": 0.127
+  },
+  {
+    "id": "meal_breakfast_croustillant_3_noix_noisette_amande_noix",
+    "name": "Croustillant 3 Noix Noisette, Amande & Noix de Cajou",
+    "type": "breakfast",
+    "calories": 265,
+    "protein": 7,
+    "carbs": 34,
+    "fats": 10,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0264,
+    "protein_share": 0.106
+  },
+  {
+    "id": "meal_breakfast_jumbo_rolled_oats",
+    "name": "Jumbo Rolled Oats",
+    "type": "breakfast",
+    "calories": 225,
+    "protein": 7,
+    "carbs": 36,
+    "fats": 5,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0311,
+    "protein_share": 0.124
+  },
+  {
+    "id": "meal_breakfast_wholegrain_bran_flakes",
+    "name": "Wholegrain Bran Flakes",
+    "type": "breakfast",
+    "calories": 208,
+    "protein": 7,
+    "carbs": 36,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0337,
+    "protein_share": 0.135
+  },
+  {
+    "id": "meal_breakfast_wholegrain_malties",
+    "name": "Wholegrain Malties",
+    "type": "breakfast",
+    "calories": 216,
+    "protein": 7,
+    "carbs": 42,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0324,
+    "protein_share": 0.13
+  },
+  {
+    "id": "meal_breakfast_knusper_musli_schoko",
+    "name": "Knusper Musli Schoko",
+    "type": "breakfast",
+    "calories": 268,
+    "protein": 7,
+    "carbs": 36,
+    "fats": 10,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0261,
+    "protein_share": 0.104
+  },
+  {
+    "id": "meal_breakfast_harvest_morn_granola_raisin_almond",
+    "name": "Harvest Morn Granola Raisin & Almond",
+    "type": "breakfast",
+    "calories": 256,
+    "protein": 7,
+    "carbs": 39,
+    "fats": 7,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "nuts"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0273,
+    "protein_share": 0.109
+  },
+  {
+    "id": "meal_breakfast_weetabix_72s_1362g",
+    "name": "Weetabix 72S 1362G",
+    "type": "breakfast",
+    "calories": 218,
+    "protein": 7,
+    "carbs": 42,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0321,
+    "protein_share": 0.128
+  },
+  {
+    "id": "meal_breakfast_wholewheat_biscuits",
+    "name": "Wholewheat biscuits",
+    "type": "breakfast",
+    "calories": 215,
+    "protein": 7,
+    "carbs": 41,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "gluten"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0326,
+    "protein_share": 0.13
+  },
+  {
+    "id": "meal_breakfast_super_smooth_porridge_imp",
+    "name": "Super smooth porridge imp",
+    "type": "breakfast",
+    "calories": 224,
+    "protein": 7,
+    "carbs": 35,
+    "fats": 5,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0312,
+    "protein_share": 0.125
+  },
+  {
+    "id": "meal_breakfast_porridge_oats",
+    "name": "Porridge Oats",
+    "type": "breakfast",
+    "calories": 226,
+    "protein": 7,
+    "carbs": 36,
+    "fats": 5,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.031,
+    "protein_share": 0.124
+  },
+  {
+    "id": "meal_breakfast_weetabix_oatiflakes",
+    "name": "Weetabix Oatiflakes",
+    "type": "breakfast",
+    "calories": 243,
+    "protein": 7,
+    "carbs": 40,
+    "fats": 5,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0288,
+    "protein_share": 0.115
+  },
+  {
+    "id": "meal_breakfast_super_berry_granola",
+    "name": "Super Berry Granola",
+    "type": "breakfast",
+    "calories": 229,
+    "protein": 7,
+    "carbs": 30,
+    "fats": 7,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0306,
+    "protein_share": 0.122
+  },
+  {
+    "id": "meal_breakfast_simply_porridge_oats",
+    "name": "Simply porridge oats",
+    "type": "breakfast",
+    "calories": 221,
+    "protein": 7,
+    "carbs": 34,
+    "fats": 5,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0317,
+    "protein_share": 0.127
+  },
+  {
+    "id": "meal_breakfast_flocons_d_avoine_complets",
+    "name": "Flocons d'avoine complets",
+    "type": "breakfast",
+    "calories": 223,
+    "protein": 7,
+    "carbs": 36,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0314,
+    "protein_share": 0.126
+  },
+  {
+    "id": "meal_breakfast_raisin_wheats",
+    "name": "Raisin Wheats",
+    "type": "breakfast",
+    "calories": 215,
+    "protein": 7,
+    "carbs": 43,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "gluten"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0326,
+    "protein_share": 0.13
+  },
+  {
+    "id": "meal_breakfast_really_nutty_granola",
+    "name": "Really Nutty Granola",
+    "type": "breakfast",
+    "calories": 271,
+    "protein": 7,
+    "carbs": 35,
+    "fats": 10,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0258,
+    "protein_share": 0.103
+  },
+  {
+    "id": "meal_breakfast_porridge_oat",
+    "name": "Porridge Oat",
+    "type": "breakfast",
+    "calories": 225,
+    "protein": 7,
+    "carbs": 36,
+    "fats": 5,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0311,
+    "protein_share": 0.124
+  },
+  {
+    "id": "meal_breakfast_very_berry_granola",
+    "name": "Very Berry Granola",
+    "type": "breakfast",
+    "calories": 251,
+    "protein": 7,
+    "carbs": 39,
+    "fats": 7,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0279,
+    "protein_share": 0.112
+  },
+  {
+    "id": "meal_breakfast_scottish_oats",
+    "name": "Scottish Oats",
+    "type": "breakfast",
+    "calories": 222,
+    "protein": 7,
+    "carbs": 36,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0315,
+    "protein_share": 0.126
+  },
+  {
+    "id": "meal_breakfast_ready_brek_original",
+    "name": "Ready brek original",
+    "type": "breakfast",
+    "calories": 224,
+    "protein": 7,
+    "carbs": 35,
+    "fats": 5,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0312,
+    "protein_share": 0.125
+  },
+  {
+    "id": "meal_breakfast_flocons_d_avoine_complete_500g",
+    "name": "Flocons d'avoine complete 500g",
+    "type": "breakfast",
+    "calories": 221,
+    "protein": 7,
+    "carbs": 36,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0317,
+    "protein_share": 0.127
+  },
+  {
+    "id": "meal_breakfast_jordans_country_crisp",
+    "name": "Jordans Country Crisp",
+    "type": "breakfast",
+    "calories": 279,
+    "protein": 7,
+    "carbs": 35,
+    "fats": 12,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0251,
+    "protein_share": 0.1
+  },
+  {
+    "id": "meal_breakfast_croustillant_graines_de_courge_et_de_tou",
+    "name": "Croustillant graines de courge et de tournesol",
+    "type": "breakfast",
+    "calories": 255,
+    "protein": 7,
+    "carbs": 37,
+    "fats": 8,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0275,
+    "protein_share": 0.11
+  },
+  {
+    "id": "meal_breakfast_scott_s_old_fashioned_porridge_1kg",
+    "name": "Scott's Old Fashioned Porridge 1Kg",
+    "type": "breakfast",
+    "calories": 224,
+    "protein": 7,
+    "carbs": 36,
+    "fats": 5,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0312,
+    "protein_share": 0.125
+  },
+  {
+    "id": "meal_breakfast_white_oats",
+    "name": "White Oats",
+    "type": "breakfast",
+    "calories": 224,
+    "protein": 7,
+    "carbs": 36,
+    "fats": 5,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0312,
+    "protein_share": 0.125
+  },
+  {
+    "id": "meal_breakfast_so_simple_original_family_pack_porridge",
+    "name": "So Simple Original Family Pack Porridge",
+    "type": "breakfast",
+    "calories": 222,
+    "protein": 7,
+    "carbs": 35,
+    "fats": 5,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0315,
+    "protein_share": 0.126
+  },
+  {
+    "id": "meal_breakfast_tesco_organic_porridge_oats_750g",
+    "name": "Tesco Organic Porridge Oats 750G",
+    "type": "breakfast",
+    "calories": 222,
+    "protein": 7,
+    "carbs": 36,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0315,
+    "protein_share": 0.126
+  },
+  {
+    "id": "meal_breakfast_shredded_wheat_16s_imp",
+    "name": "Shredded Wheat 16s imp",
+    "type": "breakfast",
+    "calories": 217,
+    "protein": 7,
+    "carbs": 41,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "gluten"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0323,
+    "protein_share": 0.129
+  },
+  {
+    "id": "meal_breakfast_flahavans_microwave_quick_porridge_oats",
+    "name": "Flahavans Microwave Quick Porridge Oats",
+    "type": "breakfast",
+    "calories": 222,
+    "protein": 7,
+    "carbs": 38,
+    "fats": 3,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0315,
+    "protein_share": 0.126
+  },
+  {
+    "id": "meal_breakfast_ultimate_granola_okologisk_400_g",
+    "name": "Ultimate Granola Okologisk, 400 g",
+    "type": "breakfast",
+    "calories": 280,
+    "protein": 7,
+    "carbs": 34,
+    "fats": 13,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.025,
+    "protein_share": 0.1
+  },
+  {
+    "id": "meal_breakfast_jordan_s_super_berry_granola",
+    "name": "Jordan's Super Berry Granola",
+    "type": "breakfast",
+    "calories": 252,
+    "protein": 7,
+    "carbs": 38,
+    "fats": 7,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0278,
+    "protein_share": 0.111
+  },
+  {
+    "id": "meal_breakfast_petits_flocons_d_avoine_complete",
+    "name": "Petits flocons d'avoine complete",
+    "type": "breakfast",
+    "calories": 226,
+    "protein": 7,
+    "carbs": 36,
+    "fats": 5,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.031,
+    "protein_share": 0.124
+  },
+  {
+    "id": "meal_breakfast_crispy_minis_imp__2",
+    "name": "Crispy Minis imp",
+    "type": "breakfast",
+    "calories": 224,
+    "protein": 7,
+    "carbs": 41,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0312,
+    "protein_share": 0.125
+  },
+  {
+    "id": "meal_breakfast_protein_cereal",
+    "name": "Protein cereal",
+    "type": "breakfast",
+    "calories": 212,
+    "protein": 7,
+    "carbs": 38,
+    "fats": 3,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.033,
+    "protein_share": 0.132
+  },
+  {
+    "id": "meal_breakfast_original",
+    "name": "Original",
+    "type": "breakfast",
+    "calories": 217,
+    "protein": 7,
+    "carbs": 41,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0323,
+    "protein_share": 0.129
+  },
+  {
+    "id": "meal_breakfast_granola_aux_fruits",
+    "name": "Granola aux fruits",
+    "type": "breakfast",
+    "calories": 237,
+    "protein": 7,
+    "carbs": 38,
+    "fats": 5,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0295,
+    "protein_share": 0.118
+  },
+  {
+    "id": "meal_breakfast_granola_chocolat_noir_faible_en_sucre",
+    "name": "Granola chocolat noir - faible en sucre",
+    "type": "breakfast",
+    "calories": 276,
+    "protein": 7,
+    "carbs": 39,
+    "fats": 8,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0254,
+    "protein_share": 0.101
+  },
+  {
+    "id": "meal_breakfast_bran_flakes_m_s",
+    "name": "Bran flakes M&S",
+    "type": "breakfast",
+    "calories": 215,
+    "protein": 7,
+    "carbs": 38,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0326,
+    "protein_share": 0.13
+  },
+  {
+    "id": "meal_breakfast_country_crisp_4_noix",
+    "name": "Country Crisp 4 Noix",
+    "type": "breakfast",
+    "calories": 279,
+    "protein": 7,
+    "carbs": 35,
+    "fats": 12,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0251,
+    "protein_share": 0.1
+  },
+  {
+    "id": "meal_breakfast_creamy_superfast_oats",
+    "name": "Creamy superfast oats",
+    "type": "breakfast",
+    "calories": 221,
+    "protein": 7,
+    "carbs": 35,
+    "fats": 5,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "dairy"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0317,
+    "protein_share": 0.127
+  },
+  {
+    "id": "meal_breakfast_super_smooth_porridge",
+    "name": "SUPER SMOOTH PORRIDGE",
+    "type": "breakfast",
+    "calories": 224,
+    "protein": 7,
+    "carbs": 35,
+    "fats": 5,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0312,
+    "protein_share": 0.125
+  },
+  {
+    "id": "meal_breakfast_simply_granola",
+    "name": "Simply Granola",
+    "type": "breakfast",
+    "calories": 264,
+    "protein": 7,
+    "carbs": 40,
+    "fats": 8,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0265,
+    "protein_share": 0.106
+  },
+  {
+    "id": "meal_breakfast_choco_crousti",
+    "name": "Choco crousti",
+    "type": "breakfast",
+    "calories": 258,
+    "protein": 7,
+    "carbs": 37,
+    "fats": 8,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0271,
+    "protein_share": 0.109
+  },
+  {
+    "id": "meal_breakfast_plain_wheats",
+    "name": "Plain Wheats",
+    "type": "breakfast",
+    "calories": 238,
+    "protein": 7,
+    "carbs": 47,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "gluten"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0294,
+    "protein_share": 0.118
+  },
+  {
+    "id": "meal_breakfast_kellogg_bran_flakes",
+    "name": "Kellogg Bran Flakes",
+    "type": "breakfast",
+    "calories": 214,
+    "protein": 7,
+    "carbs": 40,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0327,
+    "protein_share": 0.131
+  },
+  {
+    "id": "meal_breakfast_crunchy_nut_almond",
+    "name": "Crunchy Nut & Almond",
+    "type": "breakfast",
+    "calories": 281,
+    "protein": 7,
+    "carbs": 31,
+    "fats": 14,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "nuts"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0249,
+    "protein_share": 0.1
+  },
+  {
+    "id": "meal_breakfast_oatflakes",
+    "name": "OATFLAKES",
+    "type": "breakfast",
+    "calories": 225,
+    "protein": 7,
+    "carbs": 37,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0311,
+    "protein_share": 0.124
+  },
+  {
+    "id": "meal_breakfast_honey_nut_granola",
+    "name": "Honey & Nut Granola",
+    "type": "breakfast",
+    "calories": 290,
+    "protein": 7,
+    "carbs": 40,
+    "fats": 12,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0241,
+    "protein_share": 0.097
+  },
+  {
+    "id": "meal_breakfast_wasa_flocons_d_avoine",
+    "name": "Wasa Flocons d'avoine",
+    "type": "breakfast",
+    "calories": 244,
+    "protein": 7,
+    "carbs": 38,
+    "fats": 6,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0287,
+    "protein_share": 0.115
+  },
+  {
+    "id": "meal_breakfast_oats",
+    "name": "Oats",
+    "type": "breakfast",
+    "calories": 221,
+    "protein": 7,
+    "carbs": 35,
+    "fats": 5,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0317,
+    "protein_share": 0.127
+  },
+  {
+    "id": "meal_breakfast_cashew_almond_gluten_free_granola",
+    "name": "Cashew & Almond Gluten-Free Granola",
+    "type": "breakfast",
+    "calories": 235,
+    "protein": 7,
+    "carbs": 34,
+    "fats": 8,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "nuts"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0298,
+    "protein_share": 0.119
+  },
+  {
+    "id": "meal_breakfast_apple_cinnamon_gut_loving_porridge",
+    "name": "Apple & Cinnamon Gut-Loving Porridge",
+    "type": "breakfast",
+    "calories": 253,
+    "protein": 7,
+    "carbs": 38,
+    "fats": 7,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0277,
+    "protein_share": 0.111
+  },
+  {
+    "id": "meal_breakfast_low_sugar_maple_pecan_granola_imp",
+    "name": "Low Sugar Maple & Pecan Granola imp",
+    "type": "breakfast",
+    "calories": 287,
+    "protein": 7,
+    "carbs": 30,
+    "fats": 14,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0244,
+    "protein_share": 0.098
+  },
+  {
+    "id": "meal_breakfast_grano_high_fibre_seeded",
+    "name": "Grano high fibre seeded",
+    "type": "breakfast",
+    "calories": 264,
+    "protein": 7,
+    "carbs": 35,
+    "fats": 9,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0265,
+    "protein_share": 0.106
+  },
+  {
+    "id": "meal_breakfast_oatibix_avena_suave",
+    "name": "Oatibix Avena Suave",
+    "type": "breakfast",
+    "calories": 222,
+    "protein": 7,
+    "carbs": 35,
+    "fats": 5,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0315,
+    "protein_share": 0.126
+  },
+  {
+    "id": "meal_breakfast_knusper",
+    "name": "Knusper",
+    "type": "breakfast",
+    "calories": 258,
+    "protein": 7,
+    "carbs": 39,
+    "fats": 8,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0271,
+    "protein_share": 0.109
+  },
+  {
+    "id": "meal_breakfast_schoko_musli",
+    "name": "Schoko Musli",
+    "type": "breakfast",
+    "calories": 246,
+    "protein": 7,
+    "carbs": 36,
+    "fats": 7,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0285,
+    "protein_share": 0.114
+  },
+  {
+    "id": "meal_breakfast_pumpkin_seed_flax_granola",
+    "name": "PUMPKIN SEED + FLAX GRANOLA",
+    "type": "breakfast",
+    "calories": 284,
+    "protein": 7,
+    "carbs": 40,
+    "fats": 11,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0246,
+    "protein_share": 0.099
+  },
+  {
+    "id": "meal_breakfast_honey_almond_granola",
+    "name": "Honey & Almond Granola",
+    "type": "breakfast",
+    "calories": 256,
+    "protein": 7,
+    "carbs": 39,
+    "fats": 7,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "nuts"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0273,
+    "protein_share": 0.109
+  },
+  {
+    "id": "meal_breakfast_dolcesenzafrumento_avena_e_riso",
+    "name": "DolcesenzaFrumento, Avena e Riso",
+    "type": "breakfast",
+    "calories": 218,
+    "protein": 7,
+    "carbs": 44,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0321,
+    "protein_share": 0.128
+  },
+  {
+    "id": "meal_breakfast_croustillant_chocolat",
+    "name": "Croustillant Chocolat",
+    "type": "breakfast",
+    "calories": 260,
+    "protein": 6,
+    "carbs": 37,
+    "fats": 8,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0231,
+    "protein_share": 0.092
+  },
+  {
+    "id": "meal_breakfast_country_crisp_chocolat_noir_70_cacao",
+    "name": "Country Crisp - Chocolat noir 70% cacao",
+    "type": "breakfast",
+    "calories": 272,
+    "protein": 6,
+    "carbs": 38,
+    "fats": 10,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0221,
+    "protein_share": 0.088
+  },
+  {
+    "id": "meal_breakfast_crispy_minis_choco",
+    "name": "Crispy minis choco",
+    "type": "breakfast",
+    "calories": 232,
+    "protein": 6,
+    "carbs": 42,
+    "fats": 3,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0259,
+    "protein_share": 0.103
+  },
+  {
+    "id": "meal_breakfast_bran_flakes_malty_crunch",
+    "name": "Bran Flakes Malty Crunch",
+    "type": "breakfast",
+    "calories": 211,
+    "protein": 6,
+    "carbs": 38,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0284,
+    "protein_share": 0.114
+  },
+  {
+    "id": "meal_breakfast_original_fitness",
+    "name": "Original Fitness",
+    "type": "breakfast",
+    "calories": 221,
+    "protein": 6,
+    "carbs": 45,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0271,
+    "protein_share": 0.109
+  },
+  {
+    "id": "meal_breakfast_cheerios_multigrain",
+    "name": "Cheerios Multigrain",
+    "type": "breakfast",
+    "calories": 230,
+    "protein": 6,
+    "carbs": 43,
+    "fats": 3,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0261,
+    "protein_share": 0.104
+  },
+  {
+    "id": "meal_breakfast_granola_chocolat",
+    "name": "Granola chocolat",
+    "type": "breakfast",
+    "calories": 252,
+    "protein": 6,
+    "carbs": 37,
+    "fats": 8,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0238,
+    "protein_share": 0.095
+  },
+  {
+    "id": "meal_breakfast_crousti_avoine_chocolat",
+    "name": "Crousti' Avoine Chocolat",
+    "type": "breakfast",
+    "calories": 250,
+    "protein": 6,
+    "carbs": 36,
+    "fats": 8,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.024,
+    "protein_share": 0.096
+  },
+  {
+    "id": "meal_breakfast_granola_coconut_cashew_almond",
+    "name": "Granola Coconut, Cashew & Almond",
+    "type": "breakfast",
+    "calories": 256,
+    "protein": 6,
+    "carbs": 39,
+    "fats": 8,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "nuts"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0234,
+    "protein_share": 0.094
+  },
+  {
+    "id": "meal_breakfast_organic_mixed_berry_granola",
+    "name": "Organic Mixed Berry Granola",
+    "type": "breakfast",
+    "calories": 265,
+    "protein": 6,
+    "carbs": 38,
+    "fats": 9,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0226,
+    "protein_share": 0.091
+  },
+  {
+    "id": "meal_breakfast_multigrain_alpha_bites",
+    "name": "Multigrain Alpha Bites",
+    "type": "breakfast",
+    "calories": 228,
+    "protein": 6,
+    "carbs": 46,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0263,
+    "protein_share": 0.105
+  },
+  {
+    "id": "meal_breakfast_cereal_mix",
+    "name": "Cereal Mix",
+    "type": "breakfast",
+    "calories": 223,
+    "protein": 6,
+    "carbs": 48,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0269,
+    "protein_share": 0.108
+  },
+  {
+    "id": "meal_breakfast_multi_grain_hoops",
+    "name": "Multi-Grain Hoops",
+    "type": "breakfast",
+    "calories": 222,
+    "protein": 6,
+    "carbs": 41,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.027,
+    "protein_share": 0.108
+  },
+  {
+    "id": "meal_breakfast_cocoa_alpha_bites",
+    "name": "Cocoa Alpha Bites",
+    "type": "breakfast",
+    "calories": 231,
+    "protein": 6,
+    "carbs": 47,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.026,
+    "protein_share": 0.104
+  },
+  {
+    "id": "meal_breakfast_copos_de_trigo_integral_y_arroz_0_azucar",
+    "name": "Copos de trigo integral y arroz 0% azucares anadidos",
+    "type": "breakfast",
+    "calories": 224,
+    "protein": 6,
+    "carbs": 45,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0268,
+    "protein_share": 0.107
+  },
+  {
+    "id": "meal_breakfast_fruit_fibre_fruity_crunch",
+    "name": "FRUIT & FIBRE FRUITY CRUNCH",
+    "type": "breakfast",
+    "calories": 220,
+    "protein": 6,
+    "carbs": 40,
+    "fats": 3,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0273,
+    "protein_share": 0.109
+  },
+  {
+    "id": "meal_breakfast_multigrain_hoops",
+    "name": "Multigrain Hoops",
+    "type": "breakfast",
+    "calories": 226,
+    "protein": 6,
+    "carbs": 50,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0265,
+    "protein_share": 0.106
+  },
+  {
+    "id": "meal_breakfast_malt_wheaties",
+    "name": "Malt wheaties",
+    "type": "breakfast",
+    "calories": 224,
+    "protein": 6,
+    "carbs": 51,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "gluten"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0268,
+    "protein_share": 0.107
+  },
+  {
+    "id": "meal_breakfast_weetabix_organic_imp",
+    "name": "Weetabix organic imp",
+    "type": "breakfast",
+    "calories": 215,
+    "protein": 6,
+    "carbs": 42,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0279,
+    "protein_share": 0.112
+  },
+  {
+    "id": "meal_breakfast_almond_apple_raisin_granola",
+    "name": "Almond, Apple & Raisin Granola",
+    "type": "breakfast",
+    "calories": 260,
+    "protein": 6,
+    "carbs": 41,
+    "fats": 8,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "nuts"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0231,
+    "protein_share": 0.092
+  },
+  {
+    "id": "meal_breakfast_tesco_free_from_red_berry_granola_350g",
+    "name": "Tesco Free From Red Berry Granola 350g",
+    "type": "breakfast",
+    "calories": 270,
+    "protein": 6,
+    "carbs": 38,
+    "fats": 10,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0222,
+    "protein_share": 0.089
+  },
+  {
+    "id": "meal_breakfast_fruit_nut_granola",
+    "name": "Fruit & Nut Granola",
+    "type": "breakfast",
+    "calories": 259,
+    "protein": 6,
+    "carbs": 39,
+    "fats": 8,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0232,
+    "protein_share": 0.093
+  },
+  {
+    "id": "meal_breakfast_raisin_nuts_musli",
+    "name": "Raisin-nuts Musli",
+    "type": "breakfast",
+    "calories": 225,
+    "protein": 6,
+    "carbs": 32,
+    "fats": 6,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0267,
+    "protein_share": 0.107
+  },
+  {
+    "id": "meal_breakfast_multigrain_hoops_cereal",
+    "name": "Multigrain Hoops Cereal",
+    "type": "breakfast",
+    "calories": 228,
+    "protein": 6,
+    "carbs": 45,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0263,
+    "protein_share": 0.105
+  },
+  {
+    "id": "meal_breakfast_cheerios_aveia",
+    "name": "Cheerios Aveia",
+    "type": "breakfast",
+    "calories": 229,
+    "protein": 6,
+    "carbs": 39,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0262,
+    "protein_share": 0.105
+  },
+  {
+    "id": "meal_breakfast_granola_avena_dark_chocolate",
+    "name": "Granola Avena Dark Chocolate",
+    "type": "breakfast",
+    "calories": 281,
+    "protein": 6,
+    "carbs": 39,
+    "fats": 10,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0214,
+    "protein_share": 0.085
+  },
+  {
+    "id": "meal_breakfast_cereales_choco_leche",
+    "name": "Cereales choco leche",
+    "type": "breakfast",
+    "calories": 268,
+    "protein": 6,
+    "carbs": 40,
+    "fats": 9,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0224,
+    "protein_share": 0.09
+  },
+  {
+    "id": "meal_breakfast_organic_gluten_free_mesa_sunrise",
+    "name": "Organic Gluten Free Mesa Sunrise",
+    "type": "breakfast",
+    "calories": 240,
+    "protein": 6,
+    "carbs": 48,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.025,
+    "protein_share": 0.1
+  },
+  {
+    "id": "meal_breakfast_country_crisp_fruits_noix",
+    "name": "Country Crisp Fruits & Noix",
+    "type": "breakfast",
+    "calories": 266,
+    "protein": 6,
+    "carbs": 38,
+    "fats": 10,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0226,
+    "protein_share": 0.09
+  },
+  {
+    "id": "meal_breakfast_raisin_nut_honey_granola",
+    "name": "Raisin, Nut & Honey Granola",
+    "type": "breakfast",
+    "calories": 251,
+    "protein": 6,
+    "carbs": 40,
+    "fats": 7,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0239,
+    "protein_share": 0.096
+  },
+  {
+    "id": "meal_breakfast_crousti_avoine_nature",
+    "name": "Crousti' Avoine nature",
+    "type": "breakfast",
+    "calories": 239,
+    "protein": 6,
+    "carbs": 38,
+    "fats": 6,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0251,
+    "protein_share": 0.1
+  },
+  {
+    "id": "meal_breakfast_cereales_completes_au_chocolat_noir_inte",
+    "name": "Cereales completes au chocolat noir intense",
+    "type": "breakfast",
+    "calories": 278,
+    "protein": 6,
+    "carbs": 34,
+    "fats": 12,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0216,
+    "protein_share": 0.086
+  },
+  {
+    "id": "meal_breakfast_granola_crunchy_honing_miel",
+    "name": "Granola Crunchy Honing - Miel",
+    "type": "breakfast",
+    "calories": 262,
+    "protein": 6,
+    "carbs": 39,
+    "fats": 8,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0229,
+    "protein_share": 0.092
+  },
+  {
+    "id": "meal_breakfast_original_fitness_wholegrain_wheat",
+    "name": "Original Fitness Wholegrain Wheat",
+    "type": "breakfast",
+    "calories": 220,
+    "protein": 6,
+    "carbs": 43,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "gluten"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0273,
+    "protein_share": 0.109
+  },
+  {
+    "id": "meal_breakfast_weetabix_chocolate_24s_tesco_imp",
+    "name": "Weetabix Chocolate 24s - Tesco imp",
+    "type": "breakfast",
+    "calories": 221,
+    "protein": 6,
+    "carbs": 41,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0271,
+    "protein_share": 0.109
+  },
+  {
+    "id": "meal_breakfast_scottish_whole_rolled_oats",
+    "name": "Scottish Whole Rolled Oats",
+    "type": "breakfast",
+    "calories": 217,
+    "protein": 6,
+    "carbs": 36,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0276,
+    "protein_share": 0.111
+  },
+  {
+    "id": "meal_breakfast_tropical_granola",
+    "name": "Tropical Granola",
+    "type": "breakfast",
+    "calories": 265,
+    "protein": 6,
+    "carbs": 37,
+    "fats": 9,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0226,
+    "protein_share": 0.091
+  },
+  {
+    "id": "meal_breakfast_croustillant_fruits_rouges",
+    "name": "Croustillant fruits rouges",
+    "type": "breakfast",
+    "calories": 256,
+    "protein": 6,
+    "carbs": 40,
+    "fats": 7,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0234,
+    "protein_share": 0.094
+  },
+  {
+    "id": "meal_breakfast_frosted_wheats",
+    "name": "Frosted wheats",
+    "type": "breakfast",
+    "calories": 218,
+    "protein": 6,
+    "carbs": 43,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "gluten"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0275,
+    "protein_share": 0.11
+  },
+  {
+    "id": "meal_breakfast_miel_pops_loops",
+    "name": "Miel pops loops",
+    "type": "breakfast",
+    "calories": 238,
+    "protein": 6,
+    "carbs": 46,
+    "fats": 3,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0252,
+    "protein_share": 0.101
+  },
+  {
+    "id": "meal_breakfast_porridge_oats_1_5kg",
+    "name": "Porridge Oats 1.5kg",
+    "type": "breakfast",
+    "calories": 218,
+    "protein": 6,
+    "carbs": 36,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0275,
+    "protein_share": 0.11
+  },
+  {
+    "id": "meal_breakfast_crousti_avoine_superfruits",
+    "name": "Crousti' Avoine Superfruits",
+    "type": "breakfast",
+    "calories": 238,
+    "protein": 6,
+    "carbs": 37,
+    "fats": 6,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0252,
+    "protein_share": 0.101
+  },
+  {
+    "id": "meal_breakfast_honey_cheerios",
+    "name": "honey cheerios",
+    "type": "breakfast",
+    "calories": 226,
+    "protein": 6,
+    "carbs": 43,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0265,
+    "protein_share": 0.106
+  },
+  {
+    "id": "meal_breakfast_special_k_granola_chocolate_imp",
+    "name": "Special K Granola Chocolate imp",
+    "type": "breakfast",
+    "calories": 281,
+    "protein": 6,
+    "carbs": 39,
+    "fats": 10,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0214,
+    "protein_share": 0.085
+  },
+  {
+    "id": "meal_breakfast_raisin_almond_granola",
+    "name": "Raisin & Almond Granola",
+    "type": "breakfast",
+    "calories": 244,
+    "protein": 6,
+    "carbs": 37,
+    "fats": 7,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "nuts"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0246,
+    "protein_share": 0.098
+  },
+  {
+    "id": "meal_breakfast_premium_knusper_musli_trio_choc",
+    "name": "Premium Knusper Musli Trio Choc",
+    "type": "breakfast",
+    "calories": 271,
+    "protein": 6,
+    "carbs": 37,
+    "fats": 10,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0221,
+    "protein_share": 0.089
+  },
+  {
+    "id": "meal_breakfast_croustillant_tout_chocolat",
+    "name": "Croustillant tout chocolat",
+    "type": "breakfast",
+    "calories": 268,
+    "protein": 6,
+    "carbs": 37,
+    "fats": 10,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0224,
+    "protein_share": 0.09
+  },
+  {
+    "id": "meal_breakfast_sante_gold_granola",
+    "name": "Sante gold granola",
+    "type": "breakfast",
+    "calories": 281,
+    "protein": 6,
+    "carbs": 37,
+    "fats": 11,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0214,
+    "protein_share": 0.085
+  },
+  {
+    "id": "meal_breakfast_all_bran_choco",
+    "name": "All-Bran Choco",
+    "type": "breakfast",
+    "calories": 235,
+    "protein": 6,
+    "carbs": 39,
+    "fats": 5,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0255,
+    "protein_share": 0.102
+  },
+  {
+    "id": "meal_breakfast_the_original_grape_nuts_cereal",
+    "name": "THE ORIGINAL grape-nuts CEREAL",
+    "type": "breakfast",
+    "calories": 207,
+    "protein": 6,
+    "carbs": 49,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.029,
+    "protein_share": 0.116
+  },
+  {
+    "id": "meal_breakfast_coco_pop_s_chocos",
+    "name": "Coco Pop's Chocos",
+    "type": "breakfast",
+    "calories": 228,
+    "protein": 6,
+    "carbs": 46,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0263,
+    "protein_share": 0.105
+  },
+  {
+    "id": "meal_breakfast_country_crisp_miel_noix",
+    "name": "Country crisp miel & noix",
+    "type": "breakfast",
+    "calories": 273,
+    "protein": 6,
+    "carbs": 37,
+    "fats": 11,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.022,
+    "protein_share": 0.088
+  },
+  {
+    "id": "meal_breakfast_multi_fit_granola_with_mixed_nuts",
+    "name": "Multi fit granola with mixed nuts",
+    "type": "breakfast",
+    "calories": 251,
+    "protein": 6,
+    "carbs": 35,
+    "fats": 9,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0239,
+    "protein_share": 0.096
+  },
+  {
+    "id": "meal_breakfast_crunchy_chocolat_noir_intense",
+    "name": "Crunchy Chocolat noir intense",
+    "type": "breakfast",
+    "calories": 265,
+    "protein": 6,
+    "carbs": 37,
+    "fats": 9,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0226,
+    "protein_share": 0.091
+  },
+  {
+    "id": "meal_breakfast_choco_pops_cereals",
+    "name": "Choco Pops Cereals",
+    "type": "breakfast",
+    "calories": 228,
+    "protein": 6,
+    "carbs": 46,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0263,
+    "protein_share": 0.105
+  },
+  {
+    "id": "meal_breakfast_apple_cinnamon_granola",
+    "name": "Apple & Cinnamon Granola",
+    "type": "breakfast",
+    "calories": 239,
+    "protein": 6,
+    "carbs": 39,
+    "fats": 9,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0251,
+    "protein_share": 0.1
+  },
+  {
+    "id": "meal_breakfast_choco_shells",
+    "name": "Choco Shells",
+    "type": "breakfast",
+    "calories": 226,
+    "protein": 6,
+    "carbs": 45,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0265,
+    "protein_share": 0.106
+  },
+  {
+    "id": "meal_breakfast_strawberry_granola",
+    "name": "Strawberry Granola",
+    "type": "breakfast",
+    "calories": 257,
+    "protein": 6,
+    "carbs": 41,
+    "fats": 7,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0233,
+    "protein_share": 0.093
+  },
+  {
+    "id": "meal_breakfast_special_k_granola_mixed_berries",
+    "name": "Special K Granola mixed berries",
+    "type": "breakfast",
+    "calories": 271,
+    "protein": 6,
+    "carbs": 40,
+    "fats": 8,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0221,
+    "protein_share": 0.089
+  },
+  {
+    "id": "meal_breakfast_fitness_fiber",
+    "name": "Fitness Fiber",
+    "type": "breakfast",
+    "calories": 209,
+    "protein": 6,
+    "carbs": 38,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0287,
+    "protein_share": 0.115
+  },
+  {
+    "id": "meal_breakfast_cruesli_mixed_nuts",
+    "name": "Cruesli - Mixed Nuts",
+    "type": "breakfast",
+    "calories": 277,
+    "protein": 5,
+    "carbs": 34,
+    "fats": 11,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0181,
+    "protein_share": 0.072
+  },
+  {
+    "id": "meal_breakfast_nestle_chocapic_cereal_organic_375g_13_3",
+    "name": "Nestle - Chocapic Cereal Organic, 375g (13.3oz)",
+    "type": "breakfast",
+    "calories": 234,
+    "protein": 5,
+    "carbs": 43,
+    "fats": 3,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0214,
+    "protein_share": 0.085
+  },
+  {
+    "id": "meal_breakfast_chocapic_cereals",
+    "name": "Chocapic Cereals",
+    "type": "breakfast",
+    "calories": 233,
+    "protein": 5,
+    "carbs": 44,
+    "fats": 3,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0215,
+    "protein_share": 0.086
+  },
+  {
+    "id": "meal_breakfast_cruesli_chocolat_noir",
+    "name": "Cruesli Chocolat noir",
+    "type": "breakfast",
+    "calories": 273,
+    "protein": 5,
+    "carbs": 34,
+    "fats": 11,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0183,
+    "protein_share": 0.073
+  },
+  {
+    "id": "meal_breakfast_country_crisp_4_baies",
+    "name": "Country Crisp 4 Baies",
+    "type": "breakfast",
+    "calories": 259,
+    "protein": 5,
+    "carbs": 40,
+    "fats": 8,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0193,
+    "protein_share": 0.077
+  },
+  {
+    "id": "meal_breakfast_nestle_chocapic_cereales_375g",
+    "name": "NESTLE CHOCAPIC Cereales 375g",
+    "type": "breakfast",
+    "calories": 230,
+    "protein": 5,
+    "carbs": 44,
+    "fats": 3,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0217,
+    "protein_share": 0.087
+  },
+  {
+    "id": "meal_breakfast_special_flakes_classic",
+    "name": "Special Flakes Classic",
+    "type": "breakfast",
+    "calories": 233,
+    "protein": 5,
+    "carbs": 48,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0215,
+    "protein_share": 0.086
+  },
+  {
+    "id": "meal_breakfast_corn_flakes__2",
+    "name": "Corn Flakes",
+    "type": "breakfast",
+    "calories": 232,
+    "protein": 5,
+    "carbs": 51,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0216,
+    "protein_share": 0.086
+  },
+  {
+    "id": "meal_breakfast_oat_granola",
+    "name": "Oat Granola",
+    "type": "breakfast",
+    "calories": 265,
+    "protein": 5,
+    "carbs": 38,
+    "fats": 10,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0189,
+    "protein_share": 0.075
+  },
+  {
+    "id": "meal_breakfast_special_k",
+    "name": "Special K",
+    "type": "breakfast",
+    "calories": 235,
+    "protein": 5,
+    "carbs": 50,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0213,
+    "protein_share": 0.085
+  },
+  {
+    "id": "meal_breakfast_nesquik_cereal",
+    "name": "Nesquik Cereal",
+    "type": "breakfast",
+    "calories": 224,
+    "protein": 5,
+    "carbs": 44,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0223,
+    "protein_share": 0.089
+  },
+  {
+    "id": "meal_breakfast_granola_sante_czekoladowa",
+    "name": "Granola Sante Czekoladowa",
+    "type": "breakfast",
+    "calories": 273,
+    "protein": 5,
+    "carbs": 44,
+    "fats": 10,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0183,
+    "protein_share": 0.073
+  },
+  {
+    "id": "meal_breakfast_cereales_extra_pepites_chocolat_noisette",
+    "name": "Cereales Extra Pepites Chocolat Noisettes",
+    "type": "breakfast",
+    "calories": 298,
+    "protein": 5,
+    "carbs": 34,
+    "fats": 15,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0168,
+    "protein_share": 0.067
+  },
+  {
+    "id": "meal_breakfast_quaker_cruesli_chocolat_au_lait",
+    "name": "Quaker Cruesli Chocolat au lait",
+    "type": "breakfast",
+    "calories": 274,
+    "protein": 5,
+    "carbs": 35,
+    "fats": 11,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0182,
+    "protein_share": 0.073
+  },
+  {
+    "id": "meal_breakfast_nestle_chocapic_cereales_750g",
+    "name": "NESTLE CHOCAPIC Cereales 750g",
+    "type": "breakfast",
+    "calories": 233,
+    "protein": 5,
+    "carbs": 44,
+    "fats": 3,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0215,
+    "protein_share": 0.086
+  },
+  {
+    "id": "meal_breakfast_chocapic",
+    "name": "chocapic",
+    "type": "breakfast",
+    "calories": 230,
+    "protein": 5,
+    "carbs": 44,
+    "fats": 3,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0217,
+    "protein_share": 0.087
+  },
+  {
+    "id": "meal_breakfast_rice_snaps",
+    "name": "Rice Snaps",
+    "type": "breakfast",
+    "calories": 232,
+    "protein": 5,
+    "carbs": 51,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0216,
+    "protein_share": 0.086
+  },
+  {
+    "id": "meal_breakfast_golden_syrup_flavour_microwaveable_oats",
+    "name": "GOLDEN SYRUP FLAVOUR MICROWAVEABLE OATS",
+    "type": "breakfast",
+    "calories": 225,
+    "protein": 5,
+    "carbs": 40,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0222,
+    "protein_share": 0.089
+  },
+  {
+    "id": "meal_breakfast_cereales_special_k_original",
+    "name": "Cereales special K original",
+    "type": "breakfast",
+    "calories": 235,
+    "protein": 5,
+    "carbs": 50,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0213,
+    "protein_share": 0.085
+  },
+  {
+    "id": "meal_breakfast_nestle_lion_cereales_400g",
+    "name": "NESTLE LION cereales 400g",
+    "type": "breakfast",
+    "calories": 243,
+    "protein": 5,
+    "carbs": 44,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0206,
+    "protein_share": 0.082
+  },
+  {
+    "id": "meal_breakfast_crownfield_special_flakes_red_fruit",
+    "name": "Crownfield Special Flakes Red Fruit",
+    "type": "breakfast",
+    "calories": 229,
+    "protein": 5,
+    "carbs": 46,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0218,
+    "protein_share": 0.087
+  },
+  {
+    "id": "meal_breakfast_country_crisp_with_sun_ripe_strawberries",
+    "name": "Country Crisp with Sun-Ripe Strawberries imp",
+    "type": "breakfast",
+    "calories": 268,
+    "protein": 5,
+    "carbs": 40,
+    "fats": 9,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0187,
+    "protein_share": 0.075
+  },
+  {
+    "id": "meal_breakfast_o_s_musli",
+    "name": "O's Musli",
+    "type": "breakfast",
+    "calories": 229,
+    "protein": 5,
+    "carbs": 49,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0218,
+    "protein_share": 0.087
+  },
+  {
+    "id": "meal_breakfast_special_k_the_original",
+    "name": "SPECIAL K The Original",
+    "type": "breakfast",
+    "calories": 235,
+    "protein": 5,
+    "carbs": 50,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0213,
+    "protein_share": 0.085
+  },
+  {
+    "id": "meal_breakfast_kitkat_cereal",
+    "name": "KitKat Cereal",
+    "type": "breakfast",
+    "calories": 252,
+    "protein": 5,
+    "carbs": 42,
+    "fats": 7,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0198,
+    "protein_share": 0.079
+  },
+  {
+    "id": "meal_breakfast_lion_cereal_with_caramel_and_chocolate",
+    "name": "Lion cereal with caramel and chocolate",
+    "type": "breakfast",
+    "calories": 243,
+    "protein": 5,
+    "carbs": 44,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0206,
+    "protein_share": 0.082
+  },
+  {
+    "id": "meal_breakfast_kelloggs_fruit_fibre_700g",
+    "name": "Kelloggs Fruit & Fibre 700g",
+    "type": "breakfast",
+    "calories": 245,
+    "protein": 5,
+    "carbs": 47,
+    "fats": 3,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0204,
+    "protein_share": 0.082
+  },
+  {
+    "id": "meal_breakfast_ganola",
+    "name": "Ganola",
+    "type": "breakfast",
+    "calories": 267,
+    "protein": 5,
+    "carbs": 37,
+    "fats": 9,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0187,
+    "protein_share": 0.075
+  },
+  {
+    "id": "meal_breakfast_special_k_chocolat_noir",
+    "name": "Special K Chocolat Noir",
+    "type": "breakfast",
+    "calories": 254,
+    "protein": 5,
+    "carbs": 49,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0197,
+    "protein_share": 0.079
+  },
+  {
+    "id": "meal_breakfast_les_galettes_de_pont_aven",
+    "name": "Les galettes de pont-aven",
+    "type": "breakfast",
+    "calories": 233,
+    "protein": 5,
+    "carbs": 41,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0215,
+    "protein_share": 0.086
+  },
+  {
+    "id": "meal_breakfast_nestle_nesquik_cereales_450g",
+    "name": "NESTLE NESQUIK Cereales 450g",
+    "type": "breakfast",
+    "calories": 226,
+    "protein": 5,
+    "carbs": 45,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0221,
+    "protein_share": 0.088
+  },
+  {
+    "id": "meal_breakfast_blueberry_wheats",
+    "name": "Blueberry Wheats",
+    "type": "breakfast",
+    "calories": 218,
+    "protein": 5,
+    "carbs": 45,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "gluten"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0229,
+    "protein_share": 0.092
+  },
+  {
+    "id": "meal_breakfast_crousti_fondant_choco_noisettes",
+    "name": "Crousti fondant choco-noisettes",
+    "type": "breakfast",
+    "calories": 271,
+    "protein": 5,
+    "carbs": 38,
+    "fats": 10,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0185,
+    "protein_share": 0.074
+  },
+  {
+    "id": "meal_breakfast_special_flakes_chocolat_noir",
+    "name": "Special Flakes Chocolat Noir",
+    "type": "breakfast",
+    "calories": 241,
+    "protein": 5,
+    "carbs": 51,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0207,
+    "protein_share": 0.083
+  },
+  {
+    "id": "meal_breakfast_premium_musli",
+    "name": "Premium musli",
+    "type": "breakfast",
+    "calories": 229,
+    "protein": 5,
+    "carbs": 40,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0218,
+    "protein_share": 0.087
+  },
+  {
+    "id": "meal_breakfast_granola_cioccolato_e_nocciole",
+    "name": "granola cioccolato e nocciole",
+    "type": "breakfast",
+    "calories": 295,
+    "protein": 5,
+    "carbs": 33,
+    "fats": 15,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0169,
+    "protein_share": 0.068
+  },
+  {
+    "id": "meal_breakfast_ancient_grains_probiotic_granola",
+    "name": "Ancient Grains Probiotic Granola",
+    "type": "breakfast",
+    "calories": 273,
+    "protein": 5,
+    "carbs": 43,
+    "fats": 10,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0183,
+    "protein_share": 0.073
+  },
+  {
+    "id": "meal_breakfast_quaker_cruesli_frutta_secca",
+    "name": "Quaker Cruesli Frutta Secca",
+    "type": "breakfast",
+    "calories": 277,
+    "protein": 5,
+    "carbs": 34,
+    "fats": 11,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0181,
+    "protein_share": 0.072
+  },
+  {
+    "id": "meal_breakfast_crunchy_nut_granola",
+    "name": "Crunchy Nut Granola",
+    "type": "breakfast",
+    "calories": 290,
+    "protein": 5,
+    "carbs": 35,
+    "fats": 13,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0172,
+    "protein_share": 0.069
+  },
+  {
+    "id": "meal_breakfast_cereales_special_k_kellogg_s_nature",
+    "name": "Cereales Special K Kellogg's Nature",
+    "type": "breakfast",
+    "calories": 225,
+    "protein": 5,
+    "carbs": 47,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0222,
+    "protein_share": 0.089
+  },
+  {
+    "id": "meal_breakfast_special_k_red_berries",
+    "name": "Special K Red Berries",
+    "type": "breakfast",
+    "calories": 234,
+    "protein": 5,
+    "carbs": 50,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0214,
+    "protein_share": 0.085
+  },
+  {
+    "id": "meal_breakfast_froot_loops",
+    "name": "Froot Loops",
+    "type": "breakfast",
+    "calories": 231,
+    "protein": 5,
+    "carbs": 47,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0216,
+    "protein_share": 0.087
+  },
+  {
+    "id": "meal_breakfast_cereales_chocapic",
+    "name": "cereales Chocapic",
+    "type": "breakfast",
+    "calories": 233,
+    "protein": 5,
+    "carbs": 44,
+    "fats": 3,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0215,
+    "protein_share": 0.086
+  },
+  {
+    "id": "meal_breakfast_fruit_fibre",
+    "name": "Fruit & Fibre",
+    "type": "breakfast",
+    "calories": 220,
+    "protein": 5,
+    "carbs": 41,
+    "fats": 3,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0227,
+    "protein_share": 0.091
+  },
+  {
+    "id": "meal_breakfast_special_k_red_berries_imp",
+    "name": "Special k Red berries imp",
+    "type": "breakfast",
+    "calories": 234,
+    "protein": 5,
+    "carbs": 50,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0214,
+    "protein_share": 0.085
+  },
+  {
+    "id": "meal_breakfast_golden_organic_corn_flakes",
+    "name": "Golden Organic Corn Flakes",
+    "type": "breakfast",
+    "calories": 221,
+    "protein": 5,
+    "carbs": 48,
+    "fats": 0,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0226,
+    "protein_share": 0.09
+  },
+  {
+    "id": "meal_breakfast_chocolate_granola",
+    "name": "Chocolate Granola",
+    "type": "breakfast",
+    "calories": 262,
+    "protein": 5,
+    "carbs": 38,
+    "fats": 9,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0191,
+    "protein_share": 0.076
+  },
+  {
+    "id": "meal_breakfast_cereales_extra_pepites_kellogg_s_choco_n",
+    "name": "Cereales Extra Pepites Kellogg's Choco Noisettes",
+    "type": "breakfast",
+    "calories": 298,
+    "protein": 5,
+    "carbs": 34,
+    "fats": 15,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0168,
+    "protein_share": 0.067
+  },
+  {
+    "id": "meal_breakfast_musli_multifrucht",
+    "name": "Musli Multifrucht",
+    "type": "breakfast",
+    "calories": 208,
+    "protein": 5,
+    "carbs": 36,
+    "fats": 3,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.024,
+    "protein_share": 0.096
+  },
+  {
+    "id": "meal_breakfast_copos_tostados_de_trigo_integral_y_arroz",
+    "name": "Copos tostados de trigo integral y arroz con chocolate",
+    "type": "breakfast",
+    "calories": 238,
+    "protein": 5,
+    "carbs": 43,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.021,
+    "protein_share": 0.084
+  },
+  {
+    "id": "meal_breakfast_nestle_nesquik_bio_cereales_375g",
+    "name": "NESTLE NESQUIK BIO Cereales 375g",
+    "type": "breakfast",
+    "calories": 224,
+    "protein": 5,
+    "carbs": 45,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0223,
+    "protein_share": 0.089
+  },
+  {
+    "id": "meal_breakfast_chocodays",
+    "name": "Chocodays",
+    "type": "breakfast",
+    "calories": 223,
+    "protein": 5,
+    "carbs": 42,
+    "fats": 3,
+    "diet": [
+      "gluten_free",
+      "pescatarian"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "fish"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0224,
+    "protein_share": 0.09
+  },
+  {
+    "id": "meal_breakfast_mysli_med_53_fuldkorn_og_40_torret_frugt",
+    "name": "Mysli med 53% fuldkorn og 40% torret frugt",
+    "type": "breakfast",
+    "calories": 205,
+    "protein": 5,
+    "carbs": 38,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0244,
+    "protein_share": 0.098
+  },
+  {
+    "id": "meal_breakfast_special_k_chocolat_au_lait",
+    "name": "Special k chocolat au lait",
+    "type": "breakfast",
+    "calories": 246,
+    "protein": 5,
+    "carbs": 49,
+    "fats": 3,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0203,
+    "protein_share": 0.081
+  },
+  {
+    "id": "meal_breakfast_granola_cinnamon_pecan",
+    "name": "Granola Cinnamon & Pecan",
+    "type": "breakfast",
+    "calories": 294,
+    "protein": 5,
+    "carbs": 28,
+    "fats": 17,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.017,
+    "protein_share": 0.068
+  },
+  {
+    "id": "meal_breakfast_crisp_rice",
+    "name": "Crisp rice",
+    "type": "breakfast",
+    "calories": 231,
+    "protein": 5,
+    "carbs": 51,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0216,
+    "protein_share": 0.087
+  },
+  {
+    "id": "meal_breakfast_oh_my_crisp_noix",
+    "name": "Oh my crisp ! - Noix",
+    "type": "breakfast",
+    "calories": 264,
+    "protein": 5,
+    "carbs": 28,
+    "fats": 12,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0189,
+    "protein_share": 0.076
+  },
+  {
+    "id": "meal_breakfast_so_simple_apple_and_blueberry_imp",
+    "name": "So Simple Apple And Blueberry imp",
+    "type": "breakfast",
+    "calories": 227,
+    "protein": 5,
+    "carbs": 42,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.022,
+    "protein_share": 0.088
+  },
+  {
+    "id": "meal_breakfast_country_crisp_bio_chocolat_noir",
+    "name": "Country crisp bio Chocolat Noir",
+    "type": "breakfast",
+    "calories": 271,
+    "protein": 5,
+    "carbs": 39,
+    "fats": 10,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0185,
+    "protein_share": 0.074
+  },
+  {
+    "id": "meal_breakfast_wheetos",
+    "name": "wheetos",
+    "type": "breakfast",
+    "calories": 224,
+    "protein": 5,
+    "carbs": 46,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0223,
+    "protein_share": 0.089
+  },
+  {
+    "id": "meal_breakfast_nesquick",
+    "name": "nesquick",
+    "type": "breakfast",
+    "calories": 228,
+    "protein": 5,
+    "carbs": 46,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0219,
+    "protein_share": 0.088
+  },
+  {
+    "id": "meal_breakfast_granola_miele",
+    "name": "Granola Miele",
+    "type": "breakfast",
+    "calories": 257,
+    "protein": 5,
+    "carbs": 39,
+    "fats": 8,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0195,
+    "protein_share": 0.078
+  },
+  {
+    "id": "meal_breakfast_forme_nature_440g",
+    "name": "Forme & nature 440g",
+    "type": "breakfast",
+    "calories": 231,
+    "protein": 5,
+    "carbs": 49,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0216,
+    "protein_share": 0.087
+  },
+  {
+    "id": "meal_breakfast_multigrain_dino_shape",
+    "name": "Multigrain Dino shape",
+    "type": "breakfast",
+    "calories": 234,
+    "protein": 5,
+    "carbs": 48,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0214,
+    "protein_share": 0.085
+  },
+  {
+    "id": "meal_breakfast_cruesli_chocolate",
+    "name": "Cruesli Chocolate",
+    "type": "breakfast",
+    "calories": 273,
+    "protein": 5,
+    "carbs": 34,
+    "fats": 12,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0183,
+    "protein_share": 0.073
+  },
+  {
+    "id": "meal_breakfast_fruit_n_fibre",
+    "name": "Fruit'n Fibre",
+    "type": "breakfast",
+    "calories": 228,
+    "protein": 5,
+    "carbs": 41,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0219,
+    "protein_share": 0.088
+  },
+  {
+    "id": "meal_breakfast_chocolate_con_leche",
+    "name": "Chocolate con Leche",
+    "type": "breakfast",
+    "calories": 238,
+    "protein": 5,
+    "carbs": 42,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.021,
+    "protein_share": 0.084
+  },
+  {
+    "id": "meal_breakfast_harvest_morn_corn_flakes",
+    "name": "Harvest Morn Corn Flakes",
+    "type": "breakfast",
+    "calories": 233,
+    "protein": 5,
+    "carbs": 51,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0215,
+    "protein_share": 0.086
+  },
+  {
+    "id": "meal_breakfast_nestle_lion_cereal_organic_400g_14_2oz",
+    "name": "Nestle - LION Cereal Organic, 400g (14.2oz)",
+    "type": "breakfast",
+    "calories": 247,
+    "protein": 5,
+    "carbs": 44,
+    "fats": 5,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0202,
+    "protein_share": 0.081
+  },
+  {
+    "id": "meal_breakfast_special_k_classic",
+    "name": "Special K Classic",
+    "type": "breakfast",
+    "calories": 235,
+    "protein": 5,
+    "carbs": 50,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0213,
+    "protein_share": 0.085
+  },
+  {
+    "id": "meal_breakfast_low_fat_special_flakes_rice_wholewheat",
+    "name": "Low Fat Special Flakes Rice & Wholewheat",
+    "type": "breakfast",
+    "calories": 226,
+    "protein": 5,
+    "carbs": 51,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "gluten"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0221,
+    "protein_share": 0.088
+  },
+  {
+    "id": "meal_breakfast_red_fruit_benefit",
+    "name": "Red Fruit Benefit",
+    "type": "breakfast",
+    "calories": 226,
+    "protein": 5,
+    "carbs": 48,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0221,
+    "protein_share": 0.088
+  },
+  {
+    "id": "meal_breakfast_granola_triple_nut",
+    "name": "Granola Triple Nut",
+    "type": "breakfast",
+    "calories": 264,
+    "protein": 5,
+    "carbs": 28,
+    "fats": 12,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0189,
+    "protein_share": 0.076
+  },
+  {
+    "id": "meal_breakfast_special_flakes_nature",
+    "name": "Special flakes nature",
+    "type": "breakfast",
+    "calories": 224,
+    "protein": 5,
+    "carbs": 46,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0223,
+    "protein_share": 0.089
+  },
+  {
+    "id": "meal_breakfast_grainea",
+    "name": "Grainea",
+    "type": "breakfast",
+    "calories": 229,
+    "protein": 5,
+    "carbs": 48,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0218,
+    "protein_share": 0.087
+  },
+  {
+    "id": "meal_breakfast_krounchy_chocolat",
+    "name": "Krounchy chocolat",
+    "type": "breakfast",
+    "calories": 265,
+    "protein": 5,
+    "carbs": 39,
+    "fats": 9,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0189,
+    "protein_share": 0.075
+  },
+  {
+    "id": "meal_breakfast_crunchy_hazelnut_musli",
+    "name": "Crunchy Hazelnut Musli",
+    "type": "breakfast",
+    "calories": 283,
+    "protein": 5,
+    "carbs": 45,
+    "fats": 11,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [
+      "nuts"
+    ],
+    "source": "meals_filtered",
+    "protein_density": 0.0177,
+    "protein_share": 0.071
+  },
+  {
+    "id": "meal_breakfast_nestle_nesquik_cereal_375g",
+    "name": "Nestle Nesquik Cereal 375g",
+    "type": "breakfast",
+    "calories": 227,
+    "protein": 5,
+    "carbs": 45,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.022,
+    "protein_share": 0.088
+  },
+  {
+    "id": "meal_breakfast_honey_nut_corn_flakes",
+    "name": "Honey nut corn flakes",
+    "type": "breakfast",
+    "calories": 242,
+    "protein": 5,
+    "carbs": 49,
+    "fats": 3,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0207,
+    "protein_share": 0.083
+  },
+  {
+    "id": "meal_breakfast_crunchy_nut_clusters_chocolate",
+    "name": "Crunchy Nut Clusters Chocolate",
+    "type": "breakfast",
+    "calories": 281,
+    "protein": 5,
+    "carbs": 43,
+    "fats": 10,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0178,
+    "protein_share": 0.071
+  },
+  {
+    "id": "meal_breakfast_nestle_nesquik_cerealien_330g",
+    "name": "NESTLE NESQUIK Cerealien 330g",
+    "type": "breakfast",
+    "calories": 227,
+    "protein": 5,
+    "carbs": 45,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.022,
+    "protein_share": 0.088
+  },
+  {
+    "id": "meal_breakfast_nestle_lion_cereales_1_05_kg",
+    "name": "NESTLE LION Cereales 1,05 kg",
+    "type": "breakfast",
+    "calories": 244,
+    "protein": 5,
+    "carbs": 44,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0205,
+    "protein_share": 0.082
+  },
+  {
+    "id": "meal_breakfast_sante_granola_raspberry_and_strawberry",
+    "name": "Sante Granola Raspberry and Strawberry",
+    "type": "breakfast",
+    "calories": 269,
+    "protein": 5,
+    "carbs": 41,
+    "fats": 8,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0186,
+    "protein_share": 0.074
+  },
+  {
+    "id": "meal_breakfast_oat_so_simple_golden_syrup_flavor",
+    "name": "Oat so simple - golden syrup flavor",
+    "type": "breakfast",
+    "calories": 226,
+    "protein": 5,
+    "carbs": 40,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0221,
+    "protein_share": 0.088
+  },
+  {
+    "id": "meal_breakfast_special_k_dark_chocolate",
+    "name": "Special K Dark Chocolate",
+    "type": "breakfast",
+    "calories": 254,
+    "protein": 5,
+    "carbs": 52,
+    "fats": 4,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0197,
+    "protein_share": 0.079
+  },
+  {
+    "id": "meal_breakfast_rice_krispies",
+    "name": "Rice Krispies",
+    "type": "breakfast",
+    "calories": 233,
+    "protein": 4,
+    "carbs": 52,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0172,
+    "protein_share": 0.069
+  },
+  {
+    "id": "meal_breakfast_corn_flakes_0_azucares_anadidos",
+    "name": "Corn Flakes 0%azucares anadidos",
+    "type": "breakfast",
+    "calories": 224,
+    "protein": 4,
+    "carbs": 49,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0179,
+    "protein_share": 0.071
+  },
+  {
+    "id": "meal_breakfast_tresor_choco_nut",
+    "name": "Tresor Choco Nut",
+    "type": "breakfast",
+    "calories": 272,
+    "protein": 4,
+    "carbs": 43,
+    "fats": 9,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0147,
+    "protein_share": 0.059
+  },
+  {
+    "id": "meal_breakfast_rice_crispies",
+    "name": "rice crispies",
+    "type": "breakfast",
+    "calories": 234,
+    "protein": 4,
+    "carbs": 52,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0171,
+    "protein_share": 0.068
+  },
+  {
+    "id": "meal_breakfast_nougat_bits",
+    "name": "Nougat Bits",
+    "type": "breakfast",
+    "calories": 266,
+    "protein": 4,
+    "carbs": 39,
+    "fats": 10,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.015,
+    "protein_share": 0.06
+  },
+  {
+    "id": "meal_breakfast_cereales_extra_kellogg_s_pepites_chocola",
+    "name": "Cereales Extra Kellogg's Pepites Chocolat au lait",
+    "type": "breakfast",
+    "calories": 290,
+    "protein": 4,
+    "carbs": 37,
+    "fats": 13,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0138,
+    "protein_share": 0.055
+  },
+  {
+    "id": "meal_breakfast_cereales_tresor_kellogg_s_chocolat_noise",
+    "name": "Cereales Tresor Kellogg's Chocolat Noisettes - 1kg",
+    "type": "breakfast",
+    "calories": 274,
+    "protein": 4,
+    "carbs": 41,
+    "fats": 8,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0146,
+    "protein_share": 0.058
+  },
+  {
+    "id": "meal_breakfast_golden_crahams",
+    "name": "Golden crahams",
+    "type": "breakfast",
+    "calories": 227,
+    "protein": 4,
+    "carbs": 46,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0176,
+    "protein_share": 0.07
+  },
+  {
+    "id": "meal_breakfast_cherry_bakewell_oat_boosts",
+    "name": "Cherry Bakewell Oat Boosts",
+    "type": "breakfast",
+    "calories": 262,
+    "protein": 4,
+    "carbs": 28,
+    "fats": 13,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0153,
+    "protein_share": 0.061
+  },
+  {
+    "id": "meal_breakfast_smacks",
+    "name": "Smacks",
+    "type": "breakfast",
+    "calories": 226,
+    "protein": 4,
+    "carbs": 49,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0177,
+    "protein_share": 0.071
+  },
+  {
+    "id": "meal_breakfast_crunchy_nut",
+    "name": "Crunchy Nut",
+    "type": "breakfast",
+    "calories": 238,
+    "protein": 4,
+    "carbs": 50,
+    "fats": 3,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0168,
+    "protein_share": 0.067
+  },
+  {
+    "id": "meal_breakfast_cornflakes",
+    "name": "cornflakes",
+    "type": "breakfast",
+    "calories": 229,
+    "protein": 4,
+    "carbs": 51,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0175,
+    "protein_share": 0.07
+  },
+  {
+    "id": "meal_breakfast_kelloggs_tresor",
+    "name": "Kelloggs tresor",
+    "type": "breakfast",
+    "calories": 269,
+    "protein": 4,
+    "carbs": 43,
+    "fats": 9,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0149,
+    "protein_share": 0.059
+  },
+  {
+    "id": "meal_breakfast_rice_crispies_multigrain_shapes",
+    "name": "Rice crispies multigrain shapes",
+    "type": "breakfast",
+    "calories": 238,
+    "protein": 4,
+    "carbs": 50,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0168,
+    "protein_share": 0.067
+  },
+  {
+    "id": "meal_breakfast_corn_flakes_cereal",
+    "name": "Corn Flakes Cereal",
+    "type": "breakfast",
+    "calories": 227,
+    "protein": 4,
+    "carbs": 50,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0176,
+    "protein_share": 0.07
+  },
+  {
+    "id": "meal_breakfast_corn_flakes_1kg",
+    "name": "CORN FLAKES 1kg",
+    "type": "breakfast",
+    "calories": 227,
+    "protein": 4,
+    "carbs": 50,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0176,
+    "protein_share": 0.07
+  },
+  {
+    "id": "meal_breakfast_coco_pops",
+    "name": "coco pops",
+    "type": "breakfast",
+    "calories": 232,
+    "protein": 4,
+    "carbs": 50,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0172,
+    "protein_share": 0.069
+  },
+  {
+    "id": "meal_breakfast_quaker_cruesli_chocolat_noisette",
+    "name": "Quaker Cruesli Chocolat noisette",
+    "type": "breakfast",
+    "calories": 268,
+    "protein": 4,
+    "carbs": 37,
+    "fats": 10,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0149,
+    "protein_share": 0.06
+  },
+  {
+    "id": "meal_breakfast_flakes_fruit_fibre",
+    "name": "Flakes fruit & fibre",
+    "type": "breakfast",
+    "calories": 223,
+    "protein": 4,
+    "carbs": 43,
+    "fats": 2,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0179,
+    "protein_share": 0.072
+  },
+  {
+    "id": "meal_breakfast_organic_chocolate_stars",
+    "name": "Organic Chocolate Stars",
+    "type": "breakfast",
+    "calories": 243,
+    "protein": 4,
+    "carbs": 49,
+    "fats": 3,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0165,
+    "protein_share": 0.066
+  },
+  {
+    "id": "meal_breakfast_cruesli_miel_et_noisettes",
+    "name": "Cruesli miel et noisettes",
+    "type": "breakfast",
+    "calories": 276,
+    "protein": 4,
+    "carbs": 38,
+    "fats": 11,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0145,
+    "protein_share": 0.058
+  },
+  {
+    "id": "meal_breakfast_cereales_rellenos_de_crema_de_cacao_y_av",
+    "name": "Cereales rellenos de crema de cacao y avellana sin gluten",
+    "type": "breakfast",
+    "calories": 277,
+    "protein": 4,
+    "carbs": 41,
+    "fats": 10,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0144,
+    "protein_share": 0.058
+  },
+  {
+    "id": "meal_breakfast_kellogg_s_tresor",
+    "name": "Kellogg's Tresor",
+    "type": "breakfast",
+    "calories": 262,
+    "protein": 4,
+    "carbs": 41,
+    "fats": 8,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0153,
+    "protein_share": 0.061
+  },
+  {
+    "id": "meal_breakfast_cereales_de_chocolate_y_avellana",
+    "name": "Cereales De Chocolate Y Avellana",
+    "type": "breakfast",
+    "calories": 257,
+    "protein": 4,
+    "carbs": 41,
+    "fats": 8,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0156,
+    "protein_share": 0.062
+  },
+  {
+    "id": "meal_breakfast_cereales_extra_pepites_kellogg_s_chocola",
+    "name": "Cereales Extra Pepites Kellogg's Chocolat au lait",
+    "type": "breakfast",
+    "calories": 290,
+    "protein": 4,
+    "carbs": 37,
+    "fats": 13,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0138,
+    "protein_share": 0.055
+  },
+  {
+    "id": "meal_breakfast_corn_flakes_sans_sucres_ajoutes",
+    "name": "Corn flakes sans sucres ajoutes",
+    "type": "breakfast",
+    "calories": 232,
+    "protein": 4,
+    "carbs": 52,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0172,
+    "protein_share": 0.069
+  },
+  {
+    "id": "meal_breakfast_cereales_croc_choc",
+    "name": "Cereales croc'choc",
+    "type": "breakfast",
+    "calories": 262,
+    "protein": 4,
+    "carbs": 41,
+    "fats": 8,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0153,
+    "protein_share": 0.061
+  },
+  {
+    "id": "meal_breakfast_kellogs_just_right_500g",
+    "name": "Kellogs Just Right 500g",
+    "type": "breakfast",
+    "calories": 222,
+    "protein": 4,
+    "carbs": 48,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.018,
+    "protein_share": 0.072
+  },
+  {
+    "id": "meal_breakfast_cereales_tresor_kellogg_s_chocolat_lait_",
+    "name": "Cereales Tresor Kellogg's Chocolat Lait - 1kg",
+    "type": "breakfast",
+    "calories": 265,
+    "protein": 4,
+    "carbs": 41,
+    "fats": 8,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0151,
+    "protein_share": 0.06
+  },
+  {
+    "id": "meal_breakfast_tchico_xxl",
+    "name": "Tchico xxl",
+    "type": "breakfast",
+    "calories": 256,
+    "protein": 4,
+    "carbs": 42,
+    "fats": 8,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0156,
+    "protein_share": 0.062
+  },
+  {
+    "id": "meal_breakfast_tresor",
+    "name": "Tresor",
+    "type": "breakfast",
+    "calories": 262,
+    "protein": 4,
+    "carbs": 41,
+    "fats": 8,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0153,
+    "protein_share": 0.061
+  },
+  {
+    "id": "meal_breakfast_nestle_chokella_cereales_350g",
+    "name": "NESTLE CHOKELLA Cereales 350g",
+    "type": "breakfast",
+    "calories": 247,
+    "protein": 4,
+    "carbs": 44,
+    "fats": 5,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0162,
+    "protein_share": 0.065
+  },
+  {
+    "id": "meal_breakfast_krave_choco_nut_flavour",
+    "name": "Krave choco nut flavour",
+    "type": "breakfast",
+    "calories": 274,
+    "protein": 4,
+    "carbs": 41,
+    "fats": 10,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0146,
+    "protein_share": 0.058
+  },
+  {
+    "id": "meal_breakfast_crunchy_nut_cornflakes",
+    "name": "Crunchy Nut Cornflakes",
+    "type": "breakfast",
+    "calories": 239,
+    "protein": 4,
+    "carbs": 49,
+    "fats": 3,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0167,
+    "protein_share": 0.067
+  },
+  {
+    "id": "meal_breakfast_gullon_hearts_of_cereal_breakfast",
+    "name": "gullon Hearts of Cereal Breakfast",
+    "type": "breakfast",
+    "calories": 268,
+    "protein": 4,
+    "carbs": 37,
+    "fats": 10,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0149,
+    "protein_share": 0.06
+  },
+  {
+    "id": "meal_breakfast_miel_pops",
+    "name": "Miel pops",
+    "type": "breakfast",
+    "calories": 230,
+    "protein": 3,
+    "carbs": 51,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.013,
+    "protein_share": 0.052
+  },
+  {
+    "id": "meal_breakfast_frosties",
+    "name": "Frosties",
+    "type": "breakfast",
+    "calories": 225,
+    "protein": 3,
+    "carbs": 52,
+    "fats": 0,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0133,
+    "protein_share": 0.053
+  },
+  {
+    "id": "meal_breakfast_cereales_con_achicoria",
+    "name": "Cereales con achicoria",
+    "type": "breakfast",
+    "calories": 214,
+    "protein": 3,
+    "carbs": 48,
+    "fats": 0,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.014,
+    "protein_share": 0.056
+  },
+  {
+    "id": "meal_breakfast_gold_corn_flakes_miel",
+    "name": "Gold corn flakes miel",
+    "type": "breakfast",
+    "calories": 227,
+    "protein": 3,
+    "carbs": 50,
+    "fats": 1,
+    "diet": [
+      "omnivore"
+    ],
+    "tags": [
+      "breakfast",
+      "high_carb",
+      "low_fat",
+      "packaged"
+    ],
+    "cuisine": "fusion",
+    "allergens": [],
+    "source": "meals_filtered",
+    "protein_density": 0.0132,
+    "protein_share": 0.053
+  }
+]
