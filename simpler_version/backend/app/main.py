@@ -56,11 +56,6 @@ def _parse_json_loose(plan_json: str) -> dict:
             elif ch == '"':
                 out.append(ch)
                 in_str = False
-            elif ch in ("\n", "\r"):
-                # turn literal line breaks into JSON-safe "\n"
-                out.append("\\n")
-            elif ch == "\t":
-                out.append("\\t")
             elif ord(ch) < 0x20:
                 # other control characters -> space
                 out.append(" ")

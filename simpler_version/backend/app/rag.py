@@ -431,7 +431,6 @@ class SimpleRAG:
     - The content field must contain the entire multi-day plan as a single text block.
     - Make sure each day roughly matches the target calories and macros.
     - Keep the language natural, supportive and concise.
-    - In JSON, you MUST escape all line breaks as \\n and tabs as \\t.
     - Never put literal line-break characters inside the content string.
     """
 
