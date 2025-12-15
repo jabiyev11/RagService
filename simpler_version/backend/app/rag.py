@@ -407,7 +407,8 @@ class SimpleRAG:
         avoid = profile.get("avoid_names", [])
         avoid_str = ", ".join([a for a in avoid if isinstance(a, str)])[:1000]
         avoid_clause = f"\nAvoid repeating these meal names: [{avoid_str}]\n" if avoid_str else ""
-
+        
+        full_name = (profile.get("full_name") or "").strip()
         prompt = f"""You are an expert nutritionist and meal planner. Your role is to create personalized meal plans and to return ONLY valid JSON.
     NO markdown, NO prose, NO backticks.
 
@@ -421,7 +422,7 @@ class SimpleRAG:
     {avoid_clause}
     STRICT JSON OUTPUT:
     {{
-    "title": "Meaningful title of 3 words",
+    "title": "Meaningful title of several words, use {profile['goal']} plan for {full_name}",
     "content": "Write the full {days}-day meal plan here as plain text. Clearly separate each day using labels like Day 1, Day 2, etc. For each day, mention breakfast, lunch, snack(s), and dinner chosen from the candidate meals above, with brief descriptions. Do not use markdown or bullet symbols, just plain sentences and line breaks."
     }}
 

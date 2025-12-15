@@ -4,6 +4,8 @@ sys.dont_write_bytecode = True
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
+from typing import Optional
+
 from dotenv import load_dotenv
 import json
 import re
@@ -127,6 +129,10 @@ class UserProfile(BaseModel):
     days: int
     exclude: str = ""
 
+class GenerateRequest(BaseModel):
+    full_name: Optional[str] = None
+    profile: UserProfile
+
 
 @app.get("/")
 def root():
@@ -134,7 +140,9 @@ def root():
 
 
 @app.post("/generate")
-def generate_plan(profile: UserProfile):
+def generate_plan(req: GenerateRequest):
+    profile = req.profile
+    full_name = (req.full_name or "").strip()
     """Generate a meal plan and return only success, title, content."""
     try:
         # 1) Compute targets (used to guide the LLM, not returned)
@@ -144,6 +152,7 @@ def generate_plan(profile: UserProfile):
 
         # 2) Build profile for RAG + LLM
         profile_dict = {
+            "full_name": full_name, 
             "goal": profile.goal,
             "calories": int(calories),
             "diet_type": profile.diet_type,
