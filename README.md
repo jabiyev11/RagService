@@ -161,15 +161,17 @@ You can test the generation endpoint using **Postman** or **cURL**.
 curl -X POST http://localhost:8000/generate \
 -H "Content-Type: application/json" \
 -d '{
-  "age": 28,
-  "gender": "male",
-  "height_cm": 175,
-  "weight_kg": 75,
-  "activity": "moderate",
-  "goal": "maintenance",
-  "diet_type": "omnivore",
-  "days": 1,
-  "exclude": "peanuts"
+  "full_name": "Test User",
+  "profile": {
+    "age": 28,
+    "gender": "male",
+    "height_cm": 175,
+    "weight_kg": 75,
+    "activity": "moderate",
+    "goal": "maintenance",
+    "diet_type": "omnivore",
+    "days": 1
+  }
 }'
 ```
 
